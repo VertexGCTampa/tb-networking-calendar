@@ -150,3 +150,11 @@ sources:
     type: squarespace
     url: https://www.floridaagc.com/sfagc-events
     exclude_title_regex: "(?i)part \\d|workshop|STP Unit|fundamentals|blueprint|MS Project|safety session|webinar"
+
+  # 16 - BOMA Greater Tampa Bay (Vieth/MemberLeap iCal feed; socials, breakfasts, business meetings)
+  - id: boma
+    org: BOMA
+    name: BOMA Greater Tampa Bay
+    type: ics
+    url: "https://viethconsulting.com/members/calendar/events_ical.php?org_id=BGTB"
+    exclude_title_regex: "(?i)committee|BOMI|course|class|Electrical Systems|Leadership Academy|board meeting"
