@@ -1,12 +1,12 @@
 {
- "saved": "2026-11-11T18:54:55.442469+00:00",
+ "saved": "2026-11-11T19:22:58.032578+00:00",
  "events": [
   {
    "org": "REIC",
    "title": "The Mechanics of Affordable Housing",
-   "start": "2026-11-18",
-   "end": null,
-   "all_day": true,
+   "start": "2026-11-18T17:30:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
    "url": "https://www.reictampabay.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=216&Itemid=124&year=2026&month=11&day=18&title=11182026-the-mechanics-of-affordable-housing&uid=17afe188b6cd9871c89ff99bddd2b3e1",
    "location": "",
    "source_id": "reic",
