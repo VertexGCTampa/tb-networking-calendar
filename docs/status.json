@@ -1,6 +1,6 @@
 {
- "built": "2026-11-11T14:49:30.123789+00:00",
- "total": 147,
+ "built": "2026-11-11T18:17:41.049153+00:00",
+ "total": 151,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
@@ -66,6 +66,12 @@
   {
    "name": "AGC of Greater Florida",
    "type": "squarespace",
+   "count": 4,
+   "state": "ok"
+  },
+  {
+   "name": "BOMA Greater Tampa Bay",
+   "type": "ics",
    "count": 4,
    "state": "ok"
   },

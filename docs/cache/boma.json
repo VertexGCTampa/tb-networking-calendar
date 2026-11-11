@@ -1,0 +1,49 @@
+{
+ "saved": "2026-11-11T18:17:41.049153+00:00",
+ "events": [
+  {
+   "org": "BOMA",
+   "title": "Annual Holiday Social",
+   "start": "2026-12-03T21:00:00+00:00",
+   "end": "2026-12-04T00:00:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": "Whiskey Cake Kitchen & Bar,2223 N. Westshore Blvd., B207 Tampa, FL 33607",
+   "source_id": "boma",
+   "recurring": false
+  },
+  {
+   "org": "BOMA",
+   "title": "November 2026 Engineer's Breakfast",
+   "start": "2026-11-13T12:30:00+00:00",
+   "end": "2026-11-13T14:00:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": "Corporate Center III,4221 W. Boy Scout Boulevard, Suite 140 Tampa, FL 33607",
+   "source_id": "boma",
+   "recurring": false
+  },
+  {
+   "org": "BOMA",
+   "title": "BOMA 2027 Winter Business Meeting",
+   "start": "2027-01-21T18:30:00+00:00",
+   "end": "2027-01-25T01:30:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": "Omni Barton Creek Resort & Spa,8212 Barton Club Drive Austin, Te 78735",
+   "source_id": "boma",
+   "recurring": false
+  },
+  {
+   "org": "BOMA",
+   "title": "BOMA 2027 International Conference & Expo",
+   "start": "2027-06-26T16:30:00+00:00",
+   "end": "2027-06-29T21:00:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": ", Nashville, TN ",
+   "source_id": "boma",
+   "recurring": false
+  }
+ ]
+}
