@@ -1,13 +1,12 @@
 {
- "built": "2026-11-11T14:34:42.155216+00:00",
- "total": 130,
+ "built": "2026-11-11T14:44:06.697838+00:00",
+ "total": 150,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
-   "type": "link_crawl",
-   "count": 0,
-   "state": "empty",
-   "note": "no upcoming events found (listing loaded, but no event links matched link_regex)"
+   "type": "chambermaster",
+   "count": 20,
+   "state": "ok"
   },
   {
    "name": "Tampa Bay Builders Association",
@@ -19,7 +18,8 @@
    "name": "Suncoast Utility Contractors Assn",
    "type": "tribe",
    "count": 3,
-   "state": "ok"
+   "state": "cached",
+   "note": "API: HTTP 202 from https://suca.org/wp-json/tribe/events/v1/events; iCal: HTTP 202 from https://suca.org/events/ - using events saved Nov 11"
   },
   {
    "name": "DBIA Florida - Gulf Coast Chapter",
@@ -53,13 +53,6 @@
    "state": "ok"
   },
   {
-   "name": "Tampa Bay Chamber",
-   "type": "link_crawl",
-   "count": 0,
-   "state": "error",
-   "note": "could not load any listing page (HTTP 403 from https://www.tampabaychamber.com/index.php)"
-  },
-  {
    "name": "CREW Tampa Bay",
    "type": "crew",
    "count": 28,
@@ -70,7 +63,7 @@
    "type": "link_crawl",
    "count": 0,
    "state": "error",
-   "note": "could not load any listing page (HTTP 403 from https://nawictampa.org/)"
+   "note": "could not load any listing page (HTTP 403 from https://nawictampa.starchapter.com/calendar.php)"
   },
   {
    "name": "Bay Area Apartment Association",

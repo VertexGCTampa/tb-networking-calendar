@@ -1,0 +1,225 @@
+{
+ "saved": "2026-11-11T14:44:06.697838+00:00",
+ "events": [
+  {
+   "org": "ABC",
+   "title": "SOLD OUT - Chapter Merit Shop Golf Tournament",
+   "start": "2026-10-22T11:00:00+00:00",
+   "end": "2026-10-22T19:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/SOLD-OUT-Chapter-Merit-Shop-Golf-Tournament-9180/details",
+   "location": "The Eagles Golf Club, 16101 Nine Eagles Dr., Odessa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Sporting Clay Tournament",
+   "start": "2026-11-19T13:00:00+00:00",
+   "end": "2026-11-19T18:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Sporting-Clay-Tournament-9181/details",
+   "location": "Tampa Bay Sporting Clays, 10514 Ehren Cutoff, Land O' Lakes",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Holiday Social",
+   "start": "2026-12-10T22:30:00+00:00",
+   "end": "2026-12-11T00:30:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Holiday-Social-9182/details",
+   "location": "Whiskey Joe's, 7720 W Courtney Campbell Cswy, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Chili Cook-Off",
+   "start": "2026-11-12T22:30:00+00:00",
+   "end": "2026-11-13T00:30:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Chili-Cook-Off-9183/details",
+   "location": "Florida State Fairgrounds - Florida Center, 4800 US 301, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Young Professionals - Halloween Costume Party",
+   "start": "2026-10-29T21:30:00+00:00",
+   "end": "2026-10-29T23:30:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Young-Professionals-Halloween-Costume-Party-9197/details",
+   "location": "Spookeasy Lounge, 1909 N 15th St, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Women in Construction - Holiday Brunch",
+   "start": "2026-12-04T16:00:00+00:00",
+   "end": "2026-12-04T18:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Women-in-Construction-Holiday-Brunch-9203/details",
+   "location": "Wulfaven Brewing Co., 10828 Perez Dr, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "SOLD OUT - ABC Superintendent Academy (in partnership with UF)",
+   "start": "2026-10-19T12:00:00+00:00",
+   "end": "2026-10-19T21:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/SOLD-OUT-ABC-Superintendent-Academy-in-partnership-with-UF-9204/details",
+   "location": "ABC Office, 2008 N Himes Ave, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "YP Volunteer Opportunity - Feeding Tampa Bay",
+   "start": "2026-11-13T18:00:00+00:00",
+   "end": "2026-11-13T20:30:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/YP-Volunteer-Opportunity-Feeding-Tampa-Bay-9209/details",
+   "location": "Feeding Tampa Bay - Causeway Center, 3624 Causeway Blvd, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Lunch & Learn - Roadblocks. Risk. Recovery. - Keeping Your Business Running No Matter What",
+   "start": "2026-10-27T15:00:00+00:00",
+   "end": "2026-10-27T16:30:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Lunch-Learn-Roadblocks-Risk-Recovery-Keeping-Your-Business-Running-No-Matter-What-9210/details",
+   "location": "ABC Office, 2008 N Himes Ave, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Young Professionals Happy Hour (Benefiting Feeding Tampa Bay)",
+   "start": "2026-11-13T20:00:00+00:00",
+   "end": "2026-11-13T22:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Young-Professionals-Happy-Hour-Benefiting-Feeding-Tampa-Bay-9214/details",
+   "location": "Coppertail Brewing Co., 2601 E 2nd Ave, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Toast To The New Year - Member Dinner",
+   "start": "2027-01-28T22:30:00+00:00",
+   "end": "2027-01-29T01:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Toast-To-The-New-Year-Member-Dinner-9215/details",
+   "location": "Hotel Flor Tampa Downtown, 905 N Florida Ave, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "ABC Day at the Races",
+   "start": "2027-02-26T16:00:00+00:00",
+   "end": "2027-02-26T21:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/ABC-Day-at-the-Races-9216/details",
+   "location": "Tampa Bay Downs, 11225 Race Track Rd, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "9th Annual Crawfish Boil",
+   "start": "2027-04-22T21:30:00+00:00",
+   "end": "2027-04-23T00:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/9th-Annual-Crawfish-Boil-9217/details",
+   "location": "Merrymakers Club, 124 Danube Ave, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "President/Chairman Golf Tournament",
+   "start": "2027-05-20T11:00:00+00:00",
+   "end": "2027-05-20T19:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/President-Chairman-Golf-Tournament-9218/details",
+   "location": "Plantation Palms, 23253 Plantation Palms Blvd, Land O' Lakes",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Fishing Tournament",
+   "start": "2027-06-04T11:15:00+00:00",
+   "end": "2027-06-04T18:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Fishing-Tournament-9219/details",
+   "location": "Hula Bay Club, 5210 W. Tyson Ave, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Tampa GC Tabletop",
+   "start": "2027-06-17T21:00:00+00:00",
+   "end": "2027-06-18T00:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Tampa-GC-Tabletop-9220/details",
+   "location": "Florida State Fairgrounds - Special Events Center, 4800 US - 301, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Member BBQ - FREE to Attend!",
+   "start": "2027-01-15T16:30:00+00:00",
+   "end": "2027-01-15T18:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Member-BBQ-FREE-to-Attend-9221/details",
+   "location": "Lowry Park - Shelter #120, 7000 N Blvd, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Young Professionals - Invasion Boat Ride",
+   "start": "2027-01-21T22:30:00+00:00",
+   "end": "2027-01-22T00:30:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Young-Professionals-Invasion-Boat-Ride-9222/details",
+   "location": "Lost Pearl Pirate Ship, 333 S. Franklin St, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "Young Professionals - Lightning Game",
+   "start": "2027-02-16T23:00:00+00:00",
+   "end": "2027-02-17T02:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/Young-Professionals-Lightning-Game-9223/details",
+   "location": "Benchmark International Arena, 401 Channelside Dr., Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "8th Annual YP All-American Golf Tournament",
+   "start": "2027-04-05T12:00:00+00:00",
+   "end": "2027-04-05T18:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/8th-Annual-YP-All-American-Golf-Tournament-9229/details",
+   "location": "Westchase Golf Club, 11602 Westchase Golf Dr, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  }
+ ]
+}
