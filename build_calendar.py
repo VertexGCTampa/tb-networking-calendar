@@ -229,9 +229,24 @@ def parse_detail_page(html: str, url: str):
     if cm:
         return cm
 
+    # First pass strips page chrome; if that finds no time, retry on the whole page, because
+    # some sites wrap their main content in an unclosed <nav>/<header> that the strip removes.
+    full = BeautifulSoup(html, "html.parser")
+    for s in full(["script", "style", "noscript"]):
+        s.decompose()
     for s in soup(["script", "style", "nav", "footer", "header", "noscript"]):
         s.decompose()
-    text = re.sub(r"\s+", " ", soup.get_text(" "))
+    first = _scan_text(soup.get_text(" "), title)
+    if first and not first[3]:
+        return first
+    second = _scan_text(full.get_text(" "), title)
+    if second and not second[3]:
+        return second
+    return first or second
+
+
+def _scan_text(raw: str, title: str | None):
+    text = re.sub(r"\s+", " ", raw)
     # Start looking at the event title so sidebars of *other* events are less likely to win.
     anchor = text.find(title[:40]) if title else -1
     body = text[anchor:] if anchor >= 0 else text
