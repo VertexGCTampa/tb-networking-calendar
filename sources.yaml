@@ -18,14 +18,14 @@ calendar_name: Tampa Bay Networking (Vertex)
 
 sources:
 
-  # 1 - ABC Florida Gulf Coast (events moved to a ChamberMaster site, web.abcflgulf.org)
+  # 1 - ABC Florida Gulf Coast (ChamberMaster calendar feed at web.abcflgulf.org;
+  #     Fort Myers chapter events are dropped - remove "Fort Myers" below to keep them)
   - id: abc
     org: ABC
     name: ABC Florida Gulf Coast
-    type: link_crawl
-    list_urls: ["https://web.abcflgulf.org/events", "https://abcflgulf.org/events/"]
-    link_regex: "web\\.abcflgulf\\.org/events/[^/]+-\\d+/details"
-    exclude_title_regex: "(?i)\\bOSHA\\b|CPR|First Aid|Print Reading|Excel|Journeyman|Prep Course|ICRA|Scaffold|Webinar|Certification|Training|Lien Law"
+    type: chambermaster
+    url: https://web.abcflgulf.org
+    exclude_title_regex: "(?i)Fort Myers|\\bOSHA\\b|CPR|First Aid|Print Reading|Excel|Journeyman|Prep Course|ICRA|Scaffold|Webinar|Certification|Training|Lien Law"
 
   # 2 - Tampa Bay Builders Association (GrowthZone)
   - id: tbba
@@ -90,8 +90,10 @@ sources:
     list_urls: ["https://tampabay.cfma.org/events/", "https://tampabay.cfma.org/"]
     link_regex: "cfma\\.org/events/details/"
 
-  # 9 - Tampa Bay Chamber (networking program + signature events only)
+  # 9 - Tampa Bay Chamber. PAUSED: Cloudflare blocks GitHub's servers (HTTP 403) and the
+  #     site has no calendar feed. Add Chamber events to manual_events.yaml.
   - id: chamber
+    disabled: true
     org: Chamber
     name: Tampa Bay Chamber
     type: link_crawl
@@ -115,7 +117,7 @@ sources:
     org: NAWIC
     name: NAWIC Tampa Chapter 36
     type: link_crawl
-    list_urls: ["https://nawictampa.org/meetinginfo.php", "https://nawictampa.org/calendar.php", "https://nawictampa.org/"]
+    list_urls: ["https://nawictampa.starchapter.com/meetinginfo.php", "https://nawictampa.starchapter.com/calendar.php"]
     link_regex: "nawictampa\\.(org|starchapter\\.com)/meetinginfo\\.php\\?id=\\d+"
     exclude_title_regex: "(?i)board meeting"
 

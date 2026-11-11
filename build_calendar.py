@@ -400,6 +400,32 @@ def src_crew(src) -> list[Ev]:
     return out
 
 
+def src_chambermaster(src) -> list[Ev]:
+    """ChamberMaster/WebLink event calendars (e.g. web.abcflgulf.org) load events from an
+    XML feed; times in it are UTC."""
+    import xml.etree.ElementTree as ET_xml
+    base = src["url"].rstrip("/")
+    resp = fetch(f"{base}/External/WCControls/V12/WebDeps/Calendar/xml/newCalendarXML.aspx",
+                 params={"startdate": WINDOW_START.strftime("%Y-%m-%d"),
+                         "enddate": WINDOW_END.strftime("%Y-%m-%d")})
+    root = ET_xml.fromstring(resp.content)
+    out = []
+    for n in root:
+        g = lambda k: (n.findtext(k) or "").strip()
+        title, sid = g("title"), g("id")
+        if not title or not g("StartDateTimeUtc"):
+            continue
+        start = dparser.isoparse(g("StartDateTimeUtc"))
+        end = dparser.isoparse(g("EndDateTimeUtc")) if g("EndDateTimeUtc") else None
+        start = start if start.tzinfo else start.replace(tzinfo=UTC)
+        end = end if (end is None or end.tzinfo) else end.replace(tzinfo=UTC)
+        slug = re.sub(r"[^A-Za-z0-9]+", "-", title).strip("-")
+        url = g("customDetailsUrl") or f"{base}/events/{slug}-{sid}/details"
+        loc = ", ".join(x for x in (g("Venue"), g("Address1"), g("City")) if x)
+        out.append(mk_event(src["org"], title, start, end, url=url, location=loc))
+    return out
+
+
 WEEKDAYS = {"MO": 0, "TU": 1, "WE": 2, "TH": 3, "FR": 4, "SA": 5, "SU": 6}
 
 
@@ -432,7 +458,8 @@ def src_recurring(src) -> list[Ev]:
 
 
 HANDLERS = {"tribe": src_tribe, "ics": src_ics, "squarespace": src_squarespace,
-            "link_crawl": src_link_crawl, "recurring": src_recurring, "crew": src_crew}
+            "link_crawl": src_link_crawl, "recurring": src_recurring, "crew": src_crew,
+            "chambermaster": src_chambermaster}
 
 
 # ---------------------------------------------------------------- pipeline
