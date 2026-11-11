@@ -1,6 +1,6 @@
 {
- "built": "2026-11-11T14:44:06.697838+00:00",
- "total": 150,
+ "built": "2026-11-11T14:49:30.123789+00:00",
+ "total": 147,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
@@ -13,13 +13,6 @@
    "type": "link_crawl",
    "count": 23,
    "state": "ok"
-  },
-  {
-   "name": "Suncoast Utility Contractors Assn",
-   "type": "tribe",
-   "count": 3,
-   "state": "cached",
-   "note": "API: HTTP 202 from https://suca.org/wp-json/tribe/events/v1/events; iCal: HTTP 202 from https://suca.org/events/ - using events saved Nov 11"
   },
   {
    "name": "DBIA Florida - Gulf Coast Chapter",
@@ -57,13 +50,6 @@
    "type": "crew",
    "count": 28,
    "state": "ok"
-  },
-  {
-   "name": "NAWIC Tampa Chapter 36",
-   "type": "link_crawl",
-   "count": 0,
-   "state": "error",
-   "note": "could not load any listing page (HTTP 403 from https://nawictampa.starchapter.com/calendar.php)"
   },
   {
    "name": "Bay Area Apartment Association",
