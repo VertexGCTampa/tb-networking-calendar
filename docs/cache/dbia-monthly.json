@@ -1,0 +1,137 @@
+{
+ "saved": "2026-11-11T14:15:00.827425+00:00",
+ "events": [
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2026-11-18T15:30:00-05:00",
+   "end": "2026-11-18T17:00:00-05:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2026-12-16T15:30:00-05:00",
+   "end": "2026-12-16T17:00:00-05:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-01-20T15:30:00-05:00",
+   "end": "2027-01-20T17:00:00-05:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-02-17T15:30:00-05:00",
+   "end": "2027-02-17T17:00:00-05:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-03-17T15:30:00-04:00",
+   "end": "2027-03-17T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-04-21T15:30:00-04:00",
+   "end": "2027-04-21T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-05-19T15:30:00-04:00",
+   "end": "2027-05-19T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-06-16T15:30:00-04:00",
+   "end": "2027-06-16T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-07-21T15:30:00-04:00",
+   "end": "2027-07-21T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-08-18T15:30:00-04:00",
+   "end": "2027-08-18T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-09-15T15:30:00-04:00",
+   "end": "2027-09-15T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-10-20T15:30:00-04:00",
+   "end": "2027-10-20T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://www.fldbia.org/chapters.php",
+   "location": "Tampa Bay (check DBIA site for venue)",
+   "source_id": "dbia-monthly",
+   "recurring": true
+  }
+ ]
+}

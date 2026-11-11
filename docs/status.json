@@ -1,0 +1,112 @@
+{
+ "built": "2026-11-11T14:15:00.827425+00:00",
+ "total": 74,
+ "sources": [
+  {
+   "name": "ABC Florida Gulf Coast",
+   "type": "tribe",
+   "count": 0,
+   "state": "error",
+   "note": "404 Client Error: Not Found for url: https://abcflgulf.org/events/?ical=1"
+  },
+  {
+   "name": "Tampa Bay Builders Association",
+   "type": "link_crawl",
+   "count": 23,
+   "state": "ok"
+  },
+  {
+   "name": "Suncoast Utility Contractors Assn",
+   "type": "tribe",
+   "count": 0,
+   "state": "error",
+   "note": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+   "name": "DBIA Florida - Gulf Coast Chapter",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "empty",
+   "note": "no upcoming events found"
+  },
+  {
+   "name": "DBIA Gulf Coast monthly meeting (standing rule)",
+   "type": "recurring",
+   "count": 12,
+   "state": "ok"
+  },
+  {
+   "name": "ULI Tampa Bay",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "error",
+   "note": "could not load any listing page"
+  },
+  {
+   "name": "CREDA Tampa Bay (formerly NAIOP)",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "error",
+   "note": "could not load any listing page"
+  },
+  {
+   "name": "CFMA Tampa Bay",
+   "type": "link_crawl",
+   "count": 20,
+   "state": "ok"
+  },
+  {
+   "name": "Tampa Bay Chamber",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "error",
+   "note": "could not load any listing page"
+  },
+  {
+   "name": "CREW Tampa Bay",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "empty",
+   "note": "no upcoming events found"
+  },
+  {
+   "name": "NAWIC Tampa Chapter 36",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "error",
+   "note": "could not load any listing page"
+  },
+  {
+   "name": "Florida Gulfcoast Commercial Assn of REALTORS",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "error",
+   "note": "could not load any listing page"
+  },
+  {
+   "name": "Bay Area Apartment Association",
+   "type": "link_crawl",
+   "count": 0,
+   "state": "empty",
+   "note": "no upcoming events found"
+  },
+  {
+   "name": "AIA Tampa Bay",
+   "type": "squarespace",
+   "count": 15,
+   "state": "ok"
+  },
+  {
+   "name": "AGC of Greater Florida",
+   "type": "squarespace",
+   "count": 4,
+   "state": "ok"
+  },
+  {
+   "name": "Manual entries (manual_events.yaml)",
+   "type": "manual",
+   "count": 0,
+   "state": "ok"
+  }
+ ]
+}

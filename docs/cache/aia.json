@@ -1,0 +1,170 @@
+{
+ "saved": "2026-11-11T14:15:00.827425+00:00",
+ "events": [
+  {
+   "org": "AIA",
+   "title": "Sarasota Design Conference",
+   "start": "2026-11-12T14:00:00.274000+00:00",
+   "end": "2026-11-14T22:00:00.274000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/sarasota-design-conference",
+   "location": "St. Paul Lutheran Church Sarasota",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "USF FALL Lecture Series with Fadi Garcia + Jad Alawar",
+   "start": "2026-11-17T23:30:00.874000+00:00",
+   "end": "2026-11-18T01:00:00.874000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/usf-fall-lectures-fadi-jad",
+   "location": "MUS 107, 3755 USF Holly Drive, Tampa, Florida, 33612",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Tampa Drawn Together",
+   "start": "2026-11-19T22:30:00.260000+00:00",
+   "end": "2026-11-20T01:00:00.260000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/tampa-drawn-together",
+   "location": "Sol Design Studio, 1718 East 7th Avenue Ste. 301, Tampa, Florida, 33605",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "WIA Mixer with a Mission Pajama Drive",
+   "start": "2026-11-19T22:30:00.787000+00:00",
+   "end": "2026-11-20T00:30:00.787000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/mixer-with-a-mission",
+   "location": "Moza &amp; Company, 3131 West Kennedy Boulevard, Tampa, Florida, 33609",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Happy Thanksgiving!",
+   "start": "2026-11-26T05:00:00.060000+00:00",
+   "end": "2026-11-27T04:59:00.060000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/happy-thanksgiving",
+   "location": "",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Holiday Party at SAFDS",
+   "start": "2026-12-04T23:00:00.418000+00:00",
+   "end": "2026-12-05T01:30:00.418000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/holiday-party-1",
+   "location": "SAFDS Studio, 2635 Fairfield Avenue South, St. Petersburg, Florida, 33712",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "USF OPEN HOUSE",
+   "start": "2026-12-08T23:00:00.874000+00:00",
+   "end": "2026-12-09T01:00:00.874000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/usf-fall-lectures-openhouse",
+   "location": "USF HMS Breezeway",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Annual Meat, Eat, & Skeet Sporting Clays Tournament 2026",
+   "start": "2026-12-18T16:30:00.407000+00:00",
+   "end": "2026-12-18T21:00:00.407000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/annual-sporting-clays-tournament-2026",
+   "location": "Tampa Bay Sporting Clays, Ehren Cutoff, Land O&#39; Lakes, FL",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Merry Christmas!",
+   "start": "2026-12-25T05:00:00.994000+00:00",
+   "end": "2026-12-26T04:59:00.994000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/merry-christmas",
+   "location": "",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Florida Design Conference",
+   "start": "2027-01-22T22:00:00.738000+00:00",
+   "end": "2027-01-25T01:00:00.738000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/florida-design-conference",
+   "location": "Gainesville",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Naples Symposium ~ 12 HSW CEU's",
+   "start": "2027-02-18T14:00:00.479000+00:00",
+   "end": "2027-02-20T01:00:00.479000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/naples-symposium-12-hsw-ceus",
+   "location": "",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "AIA TB & CAD at Gasparilla Festival of the Arts!",
+   "start": "2027-03-05T14:00:00.313000+00:00",
+   "end": "2027-03-06T22:00:00.313000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/aia-tb-cad-at-gasparilla-festival-of-the-arts",
+   "location": "Julian B. Lane Riverfront Park, 1001 North Boulevard, Tampa, Florida, 33606",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "Design Week!",
+   "start": "2027-03-14T13:00:00.439000+00:00",
+   "end": "2027-03-21T23:00:00.439000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/dw27",
+   "location": "",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "AIA Tampa Bay Annual Golf Tournament",
+   "start": "2027-05-03T12:00:00.145000+00:00",
+   "end": "2027-05-03T21:00:00.145000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/aia-tampa-bay-annual-golf-tournament",
+   "location": "Ardea County Club, 1055 East Lake Woodlands Parkway, Oldsmar, Florida, 34677",
+   "source_id": "aia",
+   "recurring": false
+  },
+  {
+   "org": "AIA",
+   "title": "The Motor Enclave 2027",
+   "start": "2027-07-15T22:00:00.668000+00:00",
+   "end": "2027-07-16T00:00:00.668000+00:00",
+   "all_day": false,
+   "url": "https://www.aiatampabay.com/events-programs/tme2027",
+   "location": "The Motor Enclave, 6500 Motor Enclave Way, Tampa, Florida, 33610",
+   "source_id": "aia",
+   "recurring": false
+  }
+ ]
+}

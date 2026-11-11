@@ -1,0 +1,1038 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vertex//Tampa Bay Networking Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tampa Bay Networking (Vertex)
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:[CFMA] CFMA VoS Board Meetings - Construction Financial Management
+  Association
+DTSTART:20261110T123000Z
+DTEND:20261110T143000Z
+DTSTAMP:20261111T141500Z
+UID:432e57f7e43571d53352fde3db20193b100dba57@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/cfma-vos-board-meetings-52-2-5202
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/cfma-vos-board-meetings-52-2-
+ 5202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] New Member Breakfast - Construction Financial Management As
+ sociation
+DTSTART:20261110T123000Z
+DTEND:20261110T143000Z
+DTSTAMP:20261111T141500Z
+UID:eb92df76d1f9cd324ad0a9e1bc2192558224a213@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/new-member-breakfast-5364
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/new-member-breakfast-5364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Economic Outlook: From Tariff Turmoil to Turbulent Oil & Ev
+ erything In Between - Construction Financial Management Association
+DTSTART:20261110T130000Z
+DTEND:20261110T150000Z
+DTSTAMP:20261111T141500Z
+UID:502901ba6ac7ed69ed5583dfd02b71c023e69230@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/economic-outlook-from-tariff-turmoil-to-turbulent-o
+ il-and-everything-in-between-5381
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/economic-outlook-from-tariff-
+ turmoil-to-turbulent-oil-and-everything-in-between-5381
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] FREE Florida Building Code Training: 9th Edition (2026) FBC
+DTSTART:20261110T150000Z
+DTEND:20261110T170000Z
+DTSTAMP:20261111T141500Z
+UID:ca5b2aace4d6844a22ca0cb0cff1e930384d811f@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/free-florida-building-code-training-9th-edition-2026
+ -fbc-2580?calendarMonth=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/free-florida-building-code-tra
+ ining-9th-edition-2026-fbc-2580?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] KPIs That Build Success - Construction Financial Management
+  Association
+DTSTART:20261110T160000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261111T141500Z
+UID:ecbea3613c062bb712df3f5eae2a9e80edbfde85@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/kpis-that-build-success-5417
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/kpis-that-build-success-5417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Annual Economic Update – Industry Outlook - Construction 
+ Financial Management Association
+DTSTART:20261110T163000Z
+DTEND:20261110T183000Z
+DTSTAMP:20261111T141500Z
+UID:257023760118febfc6dfeab381fc97786c49b490@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/annual-economic-update-industry-outlook-4786
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/annual-economic-update-indust
+ ry-outlook-4786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Knowledge Network: Economic Update – Impact of mid-terms 
+ elections outcome on Economy and Contractors - Construction Financial Mana
+ gement Association
+DTSTART:20261110T163000Z
+DTEND:20261110T183000Z
+DTSTAMP:20261111T141500Z
+UID:4c4a0fa9f4c36d9e5efb83f7fac9339b41619259@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/knowledge-network-economic-update-impact-of-mid-ter
+ ms-elections-outcome-on-economy-and-con-5394
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/knowledge-network-economic-up
+ date-impact-of-mid-terms-elections-outcome-on-economy-and-con-5394
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] City of Tampa Gov't Affairs Meeting
+DTSTART:20261110T183000Z
+DTEND:20261110T193000Z
+DTSTAMP:20261111T141500Z
+UID:055439c8d148f045f614978730a310d551057e42@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/city-of-tampa-gov-t-affairs-meeting-2576?calendarMon
+ th=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/city-of-tampa-gov-t-affairs-me
+ eting-2576?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] 2026 Tax Update & Year-End Planning - Webinar - Constructio
+ n Financial Management Association
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+DTSTAMP:20261111T141500Z
+UID:e30f9dcc4e3459c226ddeb8fd58f07bdc1f359fb@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/2-26-tax-update-and-year-end-planning-webinar-5316
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/2-26-tax-update-and-year-end-
+ planning-webinar-5316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] 9th Annual Fowling Tournament - Construction Financial Mana
+ gement Association
+DTSTART:20261110T223000Z
+DTEND:20261111T003000Z
+DTSTAMP:20261111T141500Z
+UID:e7706b87988fbba17e1995392ad4273e5b7955b7@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/9th-annual-fowling-tournament-5385
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/9th-annual-fowling-tournament
+ -5385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Annual Tax Update - Construction Financial Management Assoc
+ iation
+DTSTART:20261111T130000Z
+DTEND:20261111T150000Z
+DTSTAMP:20261111T141500Z
+UID:81f93528958c2597916cbcd286dc802ded355e5f@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/annual-tax-update-54-9-5409
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/annual-tax-update-54-9-5409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Year End Tax Planning - Construction Financial Management A
+ ssociation
+DTSTART:20261111T163000Z
+DTEND:20261111T183000Z
+DTSTAMP:20261111T141500Z
+UID:8cfd5b5e1686eaeeecf2693b2f467655cebeb123@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/year-end-tax-planning-539-5390
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/year-end-tax-planning-539-539
+ 0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Social w/CPE in Lynchburg! Building the Bottom Line: Revenu
+ e Recognition\, Indirect Costs & Contractor Profitability - Construction F
+ inancial Management Association
+DTSTART:20261111T210000Z
+DTEND:20261111T230000Z
+DTSTAMP:20261111T141500Z
+UID:54e44b7cd0cb43ec601d30b0dcf6de3abc0d4080@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/social-w-cpe-in-lynchburg-building-the-bottom-line-
+ revenue-recognition-indirect-costs-and--5410
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/social-w-cpe-in-lynchburg-bui
+ lding-the-bottom-line-revenue-recognition-indirect-costs-and--5410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Best Practices for Monthly Job Reviews in Construction
+DTSTART:20261111T220000Z
+DTEND:20261112T000000Z
+DTSTAMP:20261111T141500Z
+UID:406530593c32a2ff15a6a4dd5e30fc3c35e1378a@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/live-event-best-practices-for-monthly-job-reviews-i
+ n-construction-5315
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/live-event-best-practices-for
+ -monthly-job-reviews-in-construction-5315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] CFMA New York Capital Region: November Breakfast Meeting - 
+ Construction Financial Management Association
+DTSTART:20261112T123000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261111T141500Z
+UID:26a3c2ff30f565df328da8d7b38ac63ec318c6c6@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/cfma-new-york-capital-region-november-breakfast-mee
+ ting-54-6-5406
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/cfma-new-york-capital-region-
+ november-breakfast-meeting-54-6-5406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] November Chapter Meeting & Panel: How to Improve your Bondi
+ ng Program - Construction Financial Management Association
+DTSTART:20261112T123000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261111T141500Z
+UID:33cd8304769b73c837413cf913b8367d75026e11@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/november-chapter-meeting-and-panel-how-to-improve-y
+ our-bonding-program-5022
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/november-chapter-meeting-and-
+ panel-how-to-improve-your-bonding-program-5022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Industry Expert Roundtable - Construction Financial Managem
+ ent Association
+DTSTART:20261112T123000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261111T141500Z
+UID:3fb11d77020df7d7cd16baee17005c68daa54d5c@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/industry-expert-roundtable-5324
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/industry-expert-roundtable-53
+ 24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Sarasota Design Conference
+DTSTART:20261112T140000Z
+DTEND:20261114T220000Z
+DTSTAMP:20261111T141500Z
+UID:64aebbe71022596c39e1df8ec04c84c48d7bd80d@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/sarasota-design-conference
+LOCATION:St. Paul Lutheran Church Sarasota
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/sarasota-design-conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Knoxville CFMA’s Giving Back Month - Tiny Trees for Tiny 
+ Patients - Construction Financial Management Association
+DTSTART:20261112T153000Z
+DTEND:20261112T173000Z
+DTSTAMP:20261111T141500Z
+UID:2e8ef759f8616abe659df2c54ed27469d9878f51@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/knoxville-cfma-s-giving-back-month-tiny-trees-for-t
+ iny-patients-5223
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/knoxville-cfma-s-giving-back-
+ month-tiny-trees-for-tiny-patients-5223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] TBBA Lunch Grab -- Builder Purchasing Professionals
+DTSTART:20261112T163000Z
+DTEND:20261112T180000Z
+DTSTAMP:20261111T141500Z
+UID:afeb7bb9da94e3ed5b8ac7e797872df57a7e7aa3@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/tbba-lunch-grab-builder-purchasing-professionals-257
+ 8?calendarMonth=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/tbba-lunch-grab-builder-purcha
+ sing-professionals-2578?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Tax Update - Construction Financial Management Association
+DTSTART:20261112T163000Z
+DTEND:20261112T183000Z
+DTSTAMP:20261111T141500Z
+UID:f2c2a58b9d625591d93228452fc20e351591b1d1@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/tax-update-5419
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/tax-update-5419
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Oklahoma Aviation Academy Job Site Tour + Happy Hour - Cons
+ truction Financial Management Association
+DTSTART:20261112T200000Z
+DTEND:20261112T220000Z
+DTSTAMP:20261111T141500Z
+UID:b3b813f538b2c45b56e865e0b4a969e053c670af@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/oklahoma-aviation-academy-job-site-tour-and-happy-h
+ our-5176
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/oklahoma-aviation-academy-job
+ -site-tour-and-happy-hour-5176
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Gov't Affairs Committee Meeting - Virtual Only
+DTSTART:20261112T210000Z
+DTEND:20261112T220000Z
+DTSTAMP:20261111T141500Z
+UID:28a1d32f81552fd6e63f7125e9546e26db8ce269@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-gov-t-affairs-committee-meeting-virtual-only-2
+ 477?calendarMonth=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-gov-t-affairs-committee-
+ meeting-virtual-only-2477?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AGC] Tampa Luncheon
+DTSTART:20261112T230000Z
+DTEND:20261113T000000Z
+DTSTAMP:20261111T141500Z
+UID:da3c9cfd99ada3d07719a21a158caa563a008cfb@tb-networking
+CATEGORIES:AGC
+DESCRIPTION:Organization: AGC\nDetails / registration: https://www.florida
+ agc.com/sfagc-events/tampa-holiday-event
+LOCATION:TBD
+TRANSP:TRANSPARENT
+URL:https://www.floridaagc.com/sfagc-events/tampa-holiday-event
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AGC] YCF's Contractors On Ice
+DTSTART:20261112T230000Z
+DTEND:20261113T045900Z
+DTSTAMP:20261111T141500Z
+UID:f33111a3f1c67d6a6d1b07cf61dd0051f32ab6d0@tb-networking
+CATEGORIES:AGC
+DESCRIPTION:Organization: AGC\nDetails / registration: https://www.florida
+ agc.com/sfagc-events/ycfs-contractors-on-ice
+TRANSP:TRANSPARENT
+URL:https://www.floridaagc.com/sfagc-events/ycfs-contractors-on-ice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] 2026 TBBA Slam Fishing Tournament - Rescheduled
+DTSTART:20261113T130000Z
+DTEND:20261113T210000Z
+DTSTAMP:20261111T141500Z
+UID:b0a43ea7cf75475bff01ee9f41810e0982e4e9bc@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/2026-tbba-slam-fishing-tournament-rescheduled-2514?c
+ alendarMonth=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/2026-tbba-slam-fishing-tournam
+ ent-rescheduled-2514?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] CFMA Cincinnati Clay Shoot - Construction Financial Managem
+ ent Association
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
+DTSTAMP:20261111T141500Z
+UID:c4b7641ec31ff8604ae2c10a926a83ce6a9a6571@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/cfma-cincinnati-clay-shoot-5388
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/cfma-cincinnati-clay-shoot-53
+ 88
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Annual Golf Tournament - Construction Financial Management 
+ Association
+DTSTART:20261116T160000Z
+DTEND:20261116T180000Z
+DTSTAMP:20261111T141500Z
+UID:610065760be38a634e9185c538f6751c52a28226@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/annual-golf-tournament-5139
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/annual-golf-tournament-5139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] St. Petersburg Gov't Affairs Meeting
+DTSTART:20261117T140000Z
+DTEND:20261118T033000Z
+DTSTAMP:20261111T141500Z
+UID:71adef9c61c49fb857f2104d84f5f880bf86c7f9@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/st-petersburg-gov-t-affairs-meeting-2585?calendarMon
+ th=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/st-petersburg-gov-t-affairs-me
+ eting-2585?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] TBBA Lunch Grab -- Land Acquisition Professionals
+DTSTART:20261117T163000Z
+DTEND:20261117T180000Z
+DTSTAMP:20261111T141500Z
+UID:4b72d12a216e1ac308592779d3ec3fcf381930e8@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/tbba-lunch-grab-land-acquisition-professionals-2577?
+ calendarMonth=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/tbba-lunch-grab-land-acquisiti
+ on-professionals-2577?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] USF FALL Lecture Series with Fadi Garcia + Jad Alawar
+DTSTART:20261117T233000Z
+DTEND:20261118T010000Z
+DTSTAMP:20261111T141500Z
+UID:c3b64339c759253a88aaea8fefc261aeeec28422@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/usf-fall-lectures-fadi-jad
+LOCATION:MUS 107\, 3755 USF Holly Drive\, Tampa\, Florida\, 33612
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/usf-fall-lectures-fadi-jad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20261118T203000Z
+DTEND:20261118T220000Z
+DTSTAMP:20261111T141500Z
+UID:b302eb1d1338ab9bb8606fc99feb09bdf2d377f7@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AGC] 2026 South Florida Skills Challenge
+DTSTART:20261119T130000Z
+DTEND:20261119T190000Z
+DTSTAMP:20261111T141500Z
+UID:21b23f54ce51057a2852186861211eb7a1310f92@tb-networking
+CATEGORIES:AGC
+DESCRIPTION:Organization: AGC\nDetails / registration: https://www.florida
+ agc.com/sfagc-events/2026-south-florida-skills-challenge
+LOCATION:Tarpon River Brewing\, 280 Southwest 6th Street\, Fort Lauderdale
+ \, FL\, 33301
+TRANSP:TRANSPARENT
+URL:https://www.floridaagc.com/sfagc-events/2026-south-florida-skills-chal
+ lenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] 2026 Awards of Excellence: 11/19/26
+DTSTART:20261119T223000Z
+DTEND:20261120T023000Z
+DTSTAMP:20261111T141500Z
+UID:adda538f6f7a23652380c272446bd22866e58ea4@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/2026-awards-of-excellence-11-19-26-2567?calendarMont
+ h=2026-11-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/2026-awards-of-excellence-11-1
+ 9-26-2567?calendarMonth=2026-11-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Tampa Drawn Together
+DTSTART:20261119T223000Z
+DTEND:20261120T010000Z
+DTSTAMP:20261111T141500Z
+UID:c72ba5674432b87fccab928fe5aaf3cd338e074a@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/tampa-drawn-together
+LOCATION:Sol Design Studio\, 1718 East 7th Avenue Ste. 301\, Tampa\, Flori
+ da\, 33605
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/tampa-drawn-together
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] WIA Mixer with a Mission Pajama Drive
+DTSTART:20261119T223000Z
+DTEND:20261120T003000Z
+DTSTAMP:20261111T141500Z
+UID:330acf0a9d0f8cd4e1383ceea9079de09b42f0ac@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/mixer-with-a-mission
+LOCATION:Moza &amp\; Company\, 3131 West Kennedy Boulevard\, Tampa\, Flori
+ da\, 33609
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/mixer-with-a-mission
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Happy Thanksgiving!
+DTSTART:20261126T050000Z
+DTEND:20261127T045900Z
+DTSTAMP:20261111T141500Z
+UID:8ae0a62b52d99b31bf7039bd330dcd2a91ff7c1a@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/happy-thanksgiving
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/happy-thanksgiving
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] TBBA Holiday Gathering
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+DTSTAMP:20261111T141500Z
+UID:39a8d5562501377e53deb2c5ff797affb479f91f@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/tbba-holiday-gathering-2575?calendarMonth=2026-12-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/tbba-holiday-gathering-2575?ca
+ lendarMonth=2026-12-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] FREE Florida Building Code Training: 9th Edition (2026) FBC
+DTSTART:20261203T190000Z
+DTEND:20261203T210000Z
+DTSTAMP:20261111T141500Z
+UID:ad59f5731e10d64ebaf26d64c49f93558ce8fed4@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/free-florida-building-code-training-9th-edition-2026
+ -fbc-2581?calendarMonth=2026-12-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/free-florida-building-code-tra
+ ining-9th-edition-2026-fbc-2581?calendarMonth=2026-12-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Holiday Party at SAFDS
+DTSTART:20261204T230000Z
+DTEND:20261205T013000Z
+DTSTAMP:20261111T141500Z
+UID:113c925dd0bbcb9be4a46210e8364f005525b52d@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/holiday-party-1
+LOCATION:SAFDS Studio\, 2635 Fairfield Avenue South\, St. Petersburg\, Flo
+ rida\, 33712
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/holiday-party-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] USF OPEN HOUSE
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+DTSTAMP:20261111T141500Z
+UID:ea709afbbdfd3813ba12ec59bfa4823031812221@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/usf-fall-lectures-openhouse
+LOCATION:USF HMS Breezeway
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/usf-fall-lectures-openhous
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] 2026 Fall Golf Tournament: 12/10/26
+DTSTART:20261210T123000Z
+DTEND:20261210T203000Z
+DTSTAMP:20261111T141500Z
+UID:623c7ef16e5feaa966cbdab1e2824c374c87db3c@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/2026-fall-golf-tournament-12-10-26-2515?calendarMont
+ h=2026-12-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/2026-fall-golf-tournament-12-1
+ 0-26-2515?calendarMonth=2026-12-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AGC] YCF Dinner With A Winner
+DTSTART:20261210T230000Z
+DTEND:20261211T000000Z
+DTSTAMP:20261111T141500Z
+UID:973beda79723e492dbeb5245ef5e4497aad299bf@tb-networking
+CATEGORIES:AGC
+DESCRIPTION:Organization: AGC\nDetails / registration: https://www.florida
+ agc.com/sfagc-events/ycfs-dinner-with-a-winner-dec-2026
+LOCATION:TBD
+TRANSP:TRANSPARENT
+URL:https://www.floridaagc.com/sfagc-events/ycfs-dinner-with-a-winner-dec-
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] SMC Charity Day: Peanut Butter Jelly Time
+DTSTART:20261214T150000Z
+DTEND:20261214T203000Z
+DTSTAMP:20261111T141500Z
+UID:4b987476a5b1921968c9bfea624eacaf843781e2@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/smc-charity-day-peanut-butter-jelly-time-2570?calend
+ arMonth=2026-12-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/smc-charity-day-peanut-butter-
+ jelly-time-2570?calendarMonth=2026-12-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] FREE Florida Building Code Training: 9th Edition (2026) FBC
+DTSTART:20261215T150000Z
+DTEND:20261215T170000Z
+DTSTAMP:20261111T141500Z
+UID:015b1ba10f58a5fbe04f8df4726f87b982913f83@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/free-florida-building-code-training-9th-edition-2026
+ -fbc-2582?calendarMonth=2026-12-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/free-florida-building-code-tra
+ ining-9th-edition-2026-fbc-2582?calendarMonth=2026-12-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20261216T203000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261111T141500Z
+UID:80aaedd7cd97a3b3fe662f7656dbad9409f87a75@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Annual Meat\, Eat\, & Skeet Sporting Clays Tournament 2026
+DTSTART:20261218T163000Z
+DTEND:20261218T210000Z
+DTSTAMP:20261111T141500Z
+UID:37cd5f7f60323b843bbf05f20fd379abd0d8b7e8@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/annual-sporting-clays-tournament-2026
+LOCATION:Tampa Bay Sporting Clays\, Ehren Cutoff\, Land O&#39\; Lakes\, FL
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/annual-sporting-clays-tour
+ nament-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Merry Christmas!
+DTSTART:20261225T050000Z
+DTEND:20261226T045900Z
+DTSTAMP:20261111T141500Z
+UID:5fb2f300a9933cddb95ce09e5d6f3ed560e62666@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/merry-christmas
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/merry-christmas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] TBBA Lunch Grab -- Permitting Professionals
+DTSTART:20270114T163000Z
+DTEND:20270114T183000Z
+DTSTAMP:20261111T141500Z
+UID:c38b144718705ab5fb2c74736ee5f4680709d359@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/tbba-lunch-grab-permitting-professionals-2572?calend
+ arMonth=2027-01-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/tbba-lunch-grab-permitting-pro
+ fessionals-2572?calendarMonth=2027-01-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Horizontal Roundtable
+DTSTART:20270120T190000Z
+DTEND:20270120T200000Z
+DTSTAMP:20261111T141500Z
+UID:c6ad39d74c2b40e1a39156d55e91230a8f55ef35@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-horizontal-roundtable-01-20-2027-1753?calendar
+ Month=2027-01-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-horizontal-roundtable-01
+ -20-2027-1753?calendarMonth=2027-01-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
+DTSTART:20270120T200000Z
+DTEND:20270120T210000Z
+DTSTAMP:20261111T141500Z
+UID:5093386885b5d1e209abc742201e46db01843386@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-vertical-roundtable-meeting-01-20-2027-1232?ca
+ lendarMonth=2027-01-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-vertical-roundtable-meet
+ ing-01-20-2027-1232?calendarMonth=2027-01-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270120T203000Z
+DTEND:20270120T220000Z
+DTSTAMP:20261111T141500Z
+UID:dcc92edb414e6e4024e22035392aa4bcafa2ec03@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Florida Design Conference
+DTSTART:20270122T220000Z
+DTEND:20270125T010000Z
+DTSTAMP:20261111T141500Z
+UID:f55134fc12f03949e32036a709a2028c29e29f92@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/florida-design-conference
+LOCATION:Gainesville
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/florida-design-conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] TBBA 2027 Economic Forecast
+DTSTART:20270128T140000Z
+DTEND:20270128T160000Z
+DTSTAMP:20261111T141500Z
+UID:999f8738a7e56026fe20bd92136b2c9219e840d6@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/tbba-2027-economic-forecast-2569?calendarMonth=2027-
+ 01-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/tbba-2027-economic-forecast-25
+ 69?calendarMonth=2027-01-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Horizontal Roundtable
+DTSTART:20270217T190000Z
+DTEND:20270217T200000Z
+DTSTAMP:20261111T141500Z
+UID:fbc9053732c3714101c1ce1cd9ac331ca7e479b0@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-horizontal-roundtable-02-17-2027-1754?calendar
+ Month=2027-02-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-horizontal-roundtable-02
+ -17-2027-1754?calendarMonth=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
+DTSTART:20270217T200000Z
+DTEND:20270217T210000Z
+DTSTAMP:20261111T141500Z
+UID:ae0329a67301c6a3d45d9285acc46807a5fcdfc9@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-vertical-roundtable-meeting-02-17-2027-1233?ca
+ lendarMonth=2027-02-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-vertical-roundtable-meet
+ ing-02-17-2027-1233?calendarMonth=2027-02-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270217T203000Z
+DTEND:20270217T220000Z
+DTSTAMP:20261111T141500Z
+UID:6a87c8fbe1da62b377f95eb546c2a9cd256412aa@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Naples Symposium ~ 12 HSW CEU's
+DTSTART:20270218T140000Z
+DTEND:20270220T010000Z
+DTSTAMP:20261111T141500Z
+UID:c4aa7158f50bd084eab5b1491ea2dce3b7c0d623@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/naples-symposium-12-hsw-ceus
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/naples-symposium-12-hsw-ce
+ us
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] AIA TB & CAD at Gasparilla Festival of the Arts!
+DTSTART:20270305T140000Z
+DTEND:20270306T220000Z
+DTSTAMP:20261111T141500Z
+UID:b80f7cb7ec688613e57825fe665b8546230f44f3@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/aia-tb-cad-at-gasparilla-festival-of-the-arts
+LOCATION:Julian B. Lane Riverfront Park\, 1001 North Boulevard\, Tampa\, F
+ lorida\, 33606
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/aia-tb-cad-at-gasparilla-f
+ estival-of-the-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] Design Week!
+DTSTART:20270314T130000Z
+DTEND:20270321T230000Z
+DTSTAMP:20261111T141500Z
+UID:da3d36af83bcf658995c50c16759c41e370184a2@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/dw27
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/dw27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Horizontal Roundtable
+DTSTART:20270317T180000Z
+DTEND:20270317T190000Z
+DTSTAMP:20261111T141500Z
+UID:b5537ceea26f1852906330bfeedf33533159432e@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-horizontal-roundtable-03-17-2027-1755?calendar
+ Month=2027-03-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-horizontal-roundtable-03
+ -17-2027-1755?calendarMonth=2027-03-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
+DTSTART:20270317T190000Z
+DTEND:20270317T200000Z
+DTSTAMP:20261111T141500Z
+UID:670317d45ac11188ae885322219a577f7e6d04e9@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-vertical-roundtable-meeting-03-17-2027-1234?ca
+ lendarMonth=2027-03-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-vertical-roundtable-meet
+ ing-03-17-2027-1234?calendarMonth=2027-03-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270317T193000Z
+DTEND:20270317T210000Z
+DTSTAMP:20261111T141500Z
+UID:c4a69d115392f22c96fa9732d16882bb80f6304f@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Horizontal Roundtable
+DTSTART:20270421T180000Z
+DTEND:20270421T190000Z
+DTSTAMP:20261111T141500Z
+UID:5629aa37e23c5fa55839bebdfccec43f96f065d5@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-horizontal-roundtable-04-21-2027-1756?calendar
+ Month=2027-04-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-horizontal-roundtable-04
+ -21-2027-1756?calendarMonth=2027-04-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
+DTSTART:20270421T190000Z
+DTEND:20270421T200000Z
+DTSTAMP:20261111T141500Z
+UID:9f72b3fdccbb07639d2127f49b74ed79a8d5621c@tb-networking
+CATEGORIES:TBBA
+DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
+ ba.net/events/details/pasco-vertical-roundtable-meeting-04-21-2027-1235?ca
+ lendarMonth=2027-04-01
+TRANSP:TRANSPARENT
+URL:https://members.tbba.net/events/details/pasco-vertical-roundtable-meet
+ ing-04-21-2027-1235?calendarMonth=2027-04-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270421T193000Z
+DTEND:20270421T210000Z
+DTSTAMP:20261111T141500Z
+UID:b82df30f29185f377faf53b7a68ce3f9b717a6f8@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] AIA Tampa Bay Annual Golf Tournament
+DTSTART:20270503T120000Z
+DTEND:20270503T210000Z
+DTSTAMP:20261111T141500Z
+UID:171f248e0a07bca24aba19e0d780962ad1a95402@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/aia-tampa-bay-annual-golf-tournament
+LOCATION:Ardea County Club\, 1055 East Lake Woodlands Parkway\, Oldsmar\, 
+ Florida\, 34677
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/aia-tampa-bay-annual-golf-
+ tournament
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270519T193000Z
+DTEND:20270519T210000Z
+DTSTAMP:20261111T141500Z
+UID:6d6d366d025e7a9d06d17dd4f59aa4478f4cefd0@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270616T193000Z
+DTEND:20270616T210000Z
+DTSTAMP:20261111T141500Z
+UID:90433a12c641f180cb8f8c39bce8643a9e8c28fd@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AIA] The Motor Enclave 2027
+DTSTART:20270715T220000Z
+DTEND:20270716T000000Z
+DTSTAMP:20261111T141500Z
+UID:6bcbaf39c4b5b5aee606324e8593ba4269049d8c@tb-networking
+CATEGORIES:AIA
+DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
+ abay.com/events-programs/tme2027
+LOCATION:The Motor Enclave\, 6500 Motor Enclave Way\, Tampa\, Florida\, 33
+ 610
+TRANSP:TRANSPARENT
+URL:https://www.aiatampabay.com/events-programs/tme2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270721T193000Z
+DTEND:20270721T210000Z
+DTSTAMP:20261111T141500Z
+UID:c3d2083f3327b24bd4be44ff6cac2a030d7598a1@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270818T193000Z
+DTEND:20270818T210000Z
+DTSTAMP:20261111T141500Z
+UID:385d803df542bee08708b3e4e933eda3ca15377a@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20270915T193000Z
+DTEND:20270915T210000Z
+DTSTAMP:20261111T141500Z
+UID:9082ca1fe758806885ace9898307888254d593c3@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
+DTSTART:20271020T193000Z
+DTEND:20271020T210000Z
+DTSTAMP:20261111T141500Z
+UID:bec3cea624e74c25415452c159e0f6a671a2f2ff@tb-networking
+CATEGORIES:DBIA
+DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
+ he published schedule\; confirm before going).\nDetails / registration: ht
+ tps://www.fldbia.org/chapters.php
+LOCATION:Tampa Bay (check DBIA site for venue)
+TRANSP:TRANSPARENT
+URL:https://www.fldbia.org/chapters.php
+END:VEVENT
+END:VCALENDAR

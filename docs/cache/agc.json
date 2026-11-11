@@ -1,0 +1,49 @@
+{
+ "saved": "2026-11-11T14:15:00.827425+00:00",
+ "events": [
+  {
+   "org": "AGC",
+   "title": "Tampa Luncheon",
+   "start": "2026-11-12T23:00:00.029000+00:00",
+   "end": "2026-11-13T00:00:00.029000+00:00",
+   "all_day": false,
+   "url": "https://www.floridaagc.com/sfagc-events/tampa-holiday-event",
+   "location": "TBD",
+   "source_id": "agc",
+   "recurring": false
+  },
+  {
+   "org": "AGC",
+   "title": "YCF's Contractors On Ice",
+   "start": "2026-11-12T23:00:00.793000+00:00",
+   "end": "2026-11-13T04:59:00.793000+00:00",
+   "all_day": false,
+   "url": "https://www.floridaagc.com/sfagc-events/ycfs-contractors-on-ice",
+   "location": "",
+   "source_id": "agc",
+   "recurring": false
+  },
+  {
+   "org": "AGC",
+   "title": "2026 South Florida Skills Challenge",
+   "start": "2026-11-19T13:00:00.824000+00:00",
+   "end": "2026-11-19T19:00:00.824000+00:00",
+   "all_day": false,
+   "url": "https://www.floridaagc.com/sfagc-events/2026-south-florida-skills-challenge",
+   "location": "Tarpon River Brewing, 280 Southwest 6th Street, Fort Lauderdale, FL, 33301",
+   "source_id": "agc",
+   "recurring": false
+  },
+  {
+   "org": "AGC",
+   "title": "YCF Dinner With A Winner",
+   "start": "2026-12-10T23:00:00.587000+00:00",
+   "end": "2026-12-11T00:00:00.587000+00:00",
+   "all_day": false,
+   "url": "https://www.floridaagc.com/sfagc-events/ycfs-dinner-with-a-winner-dec-2026",
+   "location": "TBD",
+   "source_id": "agc",
+   "recurring": false
+  }
+ ]
+}
