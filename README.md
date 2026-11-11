@@ -40,7 +40,7 @@ schedule, usually every few hours, so a new event can take up to a day to appear
 ## Day-to-day
 
 - **Add an event by hand** (groups with no public calendar, like Contractors, Closers &
-  Connections): edit `manual_events.yaml` on GitHub (pencil icon), copy the example block,
+  Connections, or sites that block automated reading, like FGCAR): edit `manual_events.yaml` on GitHub (pencil icon), copy the example block,
   and commit.
 - **Drop a type of event** (for example, classes): add words to that group's
   `exclude_title_regex` in `sources.yaml`.

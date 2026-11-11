@@ -14,6 +14,7 @@ import hashlib
 import json
 import re
 import sys
+import time
 import traceback
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
@@ -38,17 +39,41 @@ WINDOW_END = NOW + dt.timedelta(days=400)
 CACHE_MAX_AGE_DAYS = 21
 MAX_DETAIL_PAGES = 60
 
-SESSION = requests.Session()
-SESSION.headers.update({
-    "User-Agent": "Mozilla/5.0 (compatible; TampaBayNetworkingCalendar/1.0)",
+BROWSER_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,application/json;q=0.8,*/*;q=0.7",
     "Accept-Language": "en-US,en;q=0.9",
-})
+}
+
+# curl_cffi sends a real Chrome TLS fingerprint, which gets past most Cloudflare
+# "bot" rules that block plain Python requests from cloud servers like GitHub's.
+try:
+    from curl_cffi import requests as cffi_requests
+    SESSION = cffi_requests.Session(impersonate="chrome")
+except Exception:  # pragma: no cover - fallback when curl_cffi is unavailable
+    SESSION = requests.Session()
+    SESSION.headers.update(BROWSER_HEADERS)
 
 
-def fetch(url: str, **kw) -> requests.Response:
-    r = SESSION.get(url, timeout=30, **kw)
-    r.raise_for_status()
-    return r
+class FetchError(RuntimeError):
+    pass
+
+
+def fetch(url: str, **kw):
+    last = None
+    for attempt in range(3):
+        try:
+            r = SESSION.get(url, timeout=30, **kw)
+            if r.status_code == 200:
+                return r
+            last = f"HTTP {r.status_code} from {url.split('?')[0]}"
+            if r.status_code in (403, 404, 410):
+                break
+        except Exception as ex:
+            last = f"{ex.__class__.__name__} on {url.split('?')[0]}"
+        time.sleep(2 * (attempt + 1))
+    raise FetchError(last)
 
 
 # ---------------------------------------------------------------- data model
@@ -155,6 +180,33 @@ def parse_jsonld(soup: BeautifulSoup):
     return None
 
 
+def parse_chambermaster(html: str, url: str):
+    """ChamberMaster/WebLink event pages (e.g. web.abcflgulf.org) fill in the date with
+    JavaScript from an embedded JSON model. Read that model directly."""
+    m = re.search(r"-(\d+)/details", url)
+    if not m:
+        return None
+    pos = html.find(f'"EventId":{m.group(1)}')
+    if pos < 0:
+        return None
+    chunk = html[pos: pos + 4000]
+
+    def g(k):
+        mm = re.search(rf'"{k}"\s*:\s*"((?:[^"\\]|\\.)*)"', chunk)
+        return json.loads(f'"{mm.group(1)}"') if mm else ""
+    date_s, name = g("EventDate"), g("EventName")
+    if not date_s or not name:
+        return None
+    d = dt.date.fromisoformat(date_s[:10])
+    t1, t2 = g("EventTime"), g("EndTime")
+    loc = ", ".join(x for x in (g("Location"), g("Address1"), g("City")) if x)
+    if not t1:
+        return clean(name), dt.datetime(d.year, d.month, d.day), None, True, loc
+    start = dt.datetime.combine(d, dparser.parse(_norm_time(t1)).time(), tzinfo=ET)
+    end = dt.datetime.combine(d, dparser.parse(_norm_time(t2)).time(), tzinfo=ET) if t2 else None
+    return clean(name), start, end, False, loc
+
+
 def parse_detail_page(html: str, url: str):
     """Best-effort extraction of (title, start, end, all_day, location) from an event page."""
     soup = BeautifulSoup(html, "html.parser")
@@ -172,6 +224,10 @@ def parse_detail_page(html: str, url: str):
     if ld:
         ld_title, start, end, loc, all_day = ld
         return clean(ld_title or title or ""), start, end, all_day, loc
+
+    cm = parse_chambermaster(html, url)
+    if cm:
+        return cm
 
     for s in soup(["script", "style", "nav", "footer", "header", "noscript"]):
         s.decompose()
@@ -225,14 +281,24 @@ def src_tribe(src) -> list[Ev]:
                 end = dparser.parse(e["end_date"]).replace(tzinfo=zone) if e.get("end_date") else None
                 v = e.get("venue") or {}
                 loc = ", ".join(x for x in (v.get("venue"), v.get("address"), v.get("city")) if x) if isinstance(v, dict) else ""
-                events.append(mk_event(src["org"], e.get("title", ""), start, end, bool(e.get("all_day")),
-                                       url=e.get("url", ""), location=clean(loc)))
+                title = clean(e.get("title", ""))
+                if not title and e.get("url"):  # some events are saved without a title
+                    try:
+                        title = (parse_detail_page(fetch(e["url"]).text, e["url"]) or ("",))[0]
+                    except Exception:
+                        title = ""
+                events.append(mk_event(src["org"], title or "Event (see link)", start, end,
+                                       bool(e.get("all_day")), url=e.get("url", ""), location=clean(loc)))
             nxt, pages = data.get("next_rest_url"), pages + 1
         if events:
             return events
-    except Exception:
-        pass
-    return src_ics({**src, "url": src.get("ics_url") or f"{base}/events/?ical=1"})
+        api_err = "API returned no events"
+    except Exception as ex:
+        api_err = str(ex)
+    try:
+        return src_ics({**src, "url": src.get("ics_url") or f"{base}/events/?ical=1"})
+    except Exception as ex:
+        raise FetchError(f"API: {api_err}; iCal: {ex}")
 
 
 def src_ics(src) -> list[Ev]:
@@ -284,19 +350,22 @@ def src_link_crawl(src) -> list[Ev]:
     """Collect event-detail links from listing pages, then read each detail page."""
     link_re = re.compile(src["link_regex"])
     links: list[str] = []
-    list_errors = 0
+    list_errors, last_err = 0, ""
     for lu in expand_list_urls(src):
         try:
             soup = BeautifulSoup(fetch(lu).text, "html.parser")
-        except Exception:
+        except Exception as ex:
             list_errors += 1
+            last_err = str(ex)
             continue
         for a in soup.find_all("a", href=True):
-            href = urljoin(lu, a["href"]).split("#")[0]
+            href = requests.utils.requote_uri(urljoin(lu, a["href"].strip()).split("#")[0])
             if link_re.search(href) and href not in links:
                 links.append(href)
     if list_errors == len(expand_list_urls(src)):
-        raise RuntimeError("could not load any listing page")
+        raise FetchError(f"could not load any listing page ({last_err})")
+    if not links:
+        raise RuntimeError("no upcoming events found (listing loaded, but no event links matched link_regex)")
     out = []
     for url in links[:MAX_DETAIL_PAGES]:
         try:
@@ -309,6 +378,25 @@ def src_link_crawl(src) -> list[Ev]:
         if not title:
             continue
         out.append(mk_event(src["org"], title, start, end, all_day, url=url, location=loc))
+    return out
+
+
+def src_crew(src) -> list[Ev]:
+    """CREW Network chapter sites load events from a JSON API shared by all chapters."""
+    base = src["url"].rstrip("/")
+    data = fetch(f"{base}/api/events", params={
+        "minEndDate": WINDOW_START.strftime("%Y-%m-%d"),
+        "maxEndDate": WINDOW_END.strftime("%Y-%m-%d")}).json()
+    out = []
+    for e in data:
+        if e.get("chapterCode") != src["chapter_code"]:
+            continue
+        start = dparser.isoparse(e["startDateTime"])
+        end = dparser.isoparse(e["endDateTime"]) if e.get("endDateTime") else None
+        a = e.get("address") or {}
+        loc = ", ".join(x.strip(" |") for x in (e.get("locationName"), a.get("line1"), a.get("city")) if x)
+        out.append(mk_event(src["org"], e.get("title", ""), start, end,
+                            url=e.get("registrationUrl") or f"{base}/events/view-all-events", location=loc))
     return out
 
 
@@ -344,7 +432,7 @@ def src_recurring(src) -> list[Ev]:
 
 
 HANDLERS = {"tribe": src_tribe, "ics": src_ics, "squarespace": src_squarespace,
-            "link_crawl": src_link_crawl, "recurring": src_recurring}
+            "link_crawl": src_link_crawl, "recurring": src_recurring, "crew": src_crew}
 
 
 # ---------------------------------------------------------------- pipeline

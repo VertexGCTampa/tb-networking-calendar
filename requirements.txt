@@ -3,3 +3,4 @@ beautifulsoup4>=4.12
 python-dateutil>=2.8
 PyYAML>=6.0
 icalendar>=5.0
+curl_cffi>=0.7
