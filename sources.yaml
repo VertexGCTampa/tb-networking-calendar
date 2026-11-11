@@ -1,0 +1,159 @@
+# Tampa Bay networking calendar - sources
+#
+# type:
+#   tribe       WordPress "Events Calendar" sites (REST API, falls back to the iCal feed)
+#   ics         any real iCal/webcal feed URL
+#   squarespace Squarespace event pages (reads the page's built-in JSON)
+#   link_crawl  reads listing page(s), follows event links, reads each event page
+#   recurring   standing monthly meeting (weekday: MO..SU, nth: 1-4 or -1 for last)
+#
+# Filters (optional, regex on the event title):
+#   include_title_regex  keep only matches
+#   exclude_title_regex  drop matches
+#
+# To add an organization from the 111-group list, copy a block below and change it.
+# To pause one, add:  disabled: true
+
+calendar_name: Tampa Bay Networking (Vertex)
+
+sources:
+
+  # 1 - ABC Florida Gulf Coast (WordPress Events Calendar; has a real feed)
+  - id: abc
+    org: ABC
+    name: ABC Florida Gulf Coast
+    type: tribe
+    url: https://abcflgulf.org
+    exclude_title_regex: "(?i)\\bOSHA\\b|CPR|First Aid|Print Reading|Excel|Journeyman|Prep Course|ICRA|Scaffold|Webinar|Certification|Training|Lien Law"
+
+  # 2 - Tampa Bay Builders Association (GrowthZone)
+  - id: tbba
+    org: TBBA
+    name: Tampa Bay Builders Association
+    type: link_crawl
+    list_urls: ["https://members.tbba.net/events/calendar/{ym}-01"]
+    months: 6
+    link_regex: "members\\.tbba\\.net/events/details/"
+    exclude_title_regex: "(?i)office closed|board of directors"
+
+  # 3 - SUCA (WordPress Events Calendar; has a real feed)
+  - id: suca
+    org: SUCA
+    name: Suncoast Utility Contractors Assn
+    type: tribe
+    url: https://suca.org
+    exclude_title_regex: "(?i)EC & Board|board meeting"
+
+  # 4 - DBIA Florida (MemberLeap, statewide - keep Gulf Coast + regional events)
+  - id: dbia
+    org: DBIA
+    name: DBIA Florida - Gulf Coast Chapter
+    type: link_crawl
+    list_urls:
+      - "https://www.memberleap.com/members/calendar6.php?org_id=DBIF"
+      - "https://www.memberleap.com/members/calendar5.php?org_id=DBIF"
+    link_regex: "moreinfo\\.php\\?org_id=DBIF&(amp;)?eventid=\\d+"
+    include_title_regex: "(?i)gulf coast|florida region|annual conference|tommy rawls|clay"
+  - id: dbia-monthly
+    org: DBIA
+    name: DBIA Gulf Coast monthly meeting (standing rule)
+    type: recurring
+    weekday: WE
+    nth: 3
+    start: "15:30"
+    end: "17:00"
+    title: Gulf Coast Chapter Members Meeting
+    location: Tampa Bay (check DBIA site for venue)
+    url: https://www.fldbia.org/chapters.php
+
+  # 5 - ULI Tampa Bay (uli.org platform; StimULI breakfasts, Trends, WLI, YLG)
+  - id: uli
+    org: ULI
+    name: ULI Tampa Bay
+    type: link_crawl
+    list_urls: ["https://tampabay.uli.org/events/", "https://tampabay.uli.org/"]
+    link_regex: "tampabay\\.uli\\.org/events/detail/[0-9A-Fa-f-]{36}"
+
+  # 6 - CREDA Tampa Bay, formerly NAIOP (Wild Apricot)
+  - id: creda
+    org: CREDA
+    name: CREDA Tampa Bay (formerly NAIOP)
+    type: link_crawl
+    list_urls: ["https://www.naioptb.org/events"]
+    link_regex: "naioptb\\.org/event-\\d+"
+
+  # 7 - Contractors, Closers & Connections - no public calendar found.
+  #     Join their email list and add events to manual_events.yaml.
+
+  # 8 - CFMA Tampa Bay (CFMA chapter platform)
+  - id: cfma
+    org: CFMA
+    name: CFMA Tampa Bay
+    type: link_crawl
+    list_urls: ["https://tampabay.cfma.org/events/", "https://tampabay.cfma.org/"]
+    link_regex: "cfma\\.org/events/details/"
+
+  # 9 - Tampa Bay Chamber (networking program + signature events only)
+  - id: chamber
+    org: Chamber
+    name: Tampa Bay Chamber
+    type: link_crawl
+    list_urls:
+      - "https://www.tampabaychamber.com/events/"
+      - "https://www.tampabaychamber.com/index.php?m={m}&srctype=events_glance&y={y}"
+    months: 3
+    link_regex: "tampabaychamber\\.com/events/\\d{4}/\\d{2}/\\d{2}/"
+    exclude_title_regex: "(?i)committee|orientation|information session|info session|enrollment|council meeting|catalyst group|inclusion group|hub for business"
+
+  # 10 - CREW Tampa Bay (CREW Network chapter site; times are shown in UTC and converted)
+  - id: crew
+    org: CREW
+    name: CREW Tampa Bay
+    type: link_crawl
+    list_urls:
+      - "https://tampa-bay.crewnetwork.org/events"
+      - "https://tampa-bay.crewnetwork.org/events?page=2"
+      - "https://tampa-bay.crewnetwork.org/events?page=3"
+    link_regex: "tampa-bay\\.crewnetwork\\.org/(en/)?events/20\\d\\d/[a-z0-9-]+"
+
+  # 11 - NAWIC Tampa #36 (chapter-management platform; link pattern to confirm on first run)
+  - id: nawic
+    org: NAWIC
+    name: NAWIC Tampa Chapter 36
+    type: link_crawl
+    list_urls: ["https://nawictampa.org/", "https://nawictampa.org/content.php?page=Calendar"]
+    link_regex: "nawictampa\\.org/.*(event|meeting|register)"
+
+  # 12 - FGCAR (GrowthZone, same platform as TBBA). Pitch sessions + luncheons + socials
+  - id: fgcar
+    org: FGCAR
+    name: Florida Gulfcoast Commercial Assn of REALTORS
+    type: link_crawl
+    list_urls: ["https://members.fgcar.org/events/calendar/{ym}-01"]
+    months: 4
+    link_regex: "members\\.fgcar\\.org/events/details/"
+    exclude_title_regex: "(?i)\\bclass\\b|course|CE credit|office closed|board"
+
+  # 13 - Bay Area Apartment Association (signature events only - main calendar is mostly classes)
+  - id: baaa
+    org: BAAA
+    name: Bay Area Apartment Association
+    type: link_crawl
+    list_urls: ["https://www.baaahq.org/events/signature-events"]
+    link_regex: "baaahq\\.org/events?/.+/(details|event)|baaahq\\.org/event/"
+
+  # 14 - AIA Tampa Bay (Squarespace)
+  - id: aia
+    org: AIA
+    name: AIA Tampa Bay
+    type: squarespace
+    url: https://www.aiatampabay.com/events-programs
+    exclude_title_regex: "(?i)board meeting|deadline|CEU via ZOOM"
+
+  # 15 - AGC of Greater Florida (Squarespace; mostly South FL - keep socials and signature events)
+  - id: agc
+    org: AGC
+    name: AGC of Greater Florida
+    type: squarespace
+    url: https://www.floridaagc.com/sfagc-events
+    exclude_title_regex: "(?i)part \\d|workshop|STP Unit|fundamentals|blueprint|MS Project|safety session|webinar"

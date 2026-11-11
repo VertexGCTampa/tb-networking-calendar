@@ -1,0 +1,10 @@
+# Events you add by hand (groups with no public calendar, invites, etc.).
+# Copy a block, edit, save. Times are Eastern. Omit the time for an all-day event.
+# Past events drop off automatically.
+#
+# - org: CCC
+#   title: Contractors, Closers & Connections Happy Hour
+#   start: 2026-12-03 17:30
+#   end: 2026-12-03 19:30
+#   location: Tampa
+#   url: https://www.contractorsclosersconnections.com/tampa-about-us/
