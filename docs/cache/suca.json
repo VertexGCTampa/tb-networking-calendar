@@ -1,0 +1,38 @@
+{
+ "saved": "2026-11-11T14:34:42.155216+00:00",
+ "events": [
+  {
+   "org": "SUCA",
+   "title": "SUCA Clay Shoot",
+   "start": "2026-10-30",
+   "end": null,
+   "all_day": true,
+   "url": "https://suca.org/event/suca-clay-shoot/",
+   "location": "",
+   "source_id": "suca",
+   "recurring": false
+  },
+  {
+   "org": "SUCA",
+   "title": "SUCA Annual Meeting & Installation Lunch",
+   "start": "2026-11-05T12:00:00-05:00",
+   "end": "2026-11-05T14:00:00-05:00",
+   "all_day": false,
+   "url": "https://suca.org/event/suca-annual-meeting-installation-lunch/",
+   "location": "Rusty Pelican, 2425 N Rocky Point Dr., Tampa",
+   "source_id": "suca",
+   "recurring": false
+  },
+  {
+   "org": "SUCA",
+   "title": "Events",
+   "start": "2026-12-04T19:00:00-05:00",
+   "end": "2026-12-04T22:30:00-05:00",
+   "all_day": false,
+   "url": "https://suca.org/event/7586/",
+   "location": "The Birchwood, 340 Beach Dr. NE, St. Pete",
+   "source_id": "suca",
+   "recurring": false
+  }
+ ]
+}

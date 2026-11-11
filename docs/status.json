@@ -1,13 +1,13 @@
 {
- "built": "2026-11-11T14:15:00.827425+00:00",
- "total": 74,
+ "built": "2026-11-11T14:34:42.155216+00:00",
+ "total": 130,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
-   "type": "tribe",
+   "type": "link_crawl",
    "count": 0,
-   "state": "error",
-   "note": "404 Client Error: Not Found for url: https://abcflgulf.org/events/?ical=1"
+   "state": "empty",
+   "note": "no upcoming events found (listing loaded, but no event links matched link_regex)"
   },
   {
    "name": "Tampa Bay Builders Association",
@@ -18,16 +18,14 @@
   {
    "name": "Suncoast Utility Contractors Assn",
    "type": "tribe",
-   "count": 0,
-   "state": "error",
-   "note": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   "count": 3,
+   "state": "ok"
   },
   {
    "name": "DBIA Florida - Gulf Coast Chapter",
-   "type": "link_crawl",
-   "count": 0,
-   "state": "empty",
-   "note": "no upcoming events found"
+   "type": "ics",
+   "count": 2,
+   "state": "ok"
   },
   {
    "name": "DBIA Gulf Coast monthly meeting (standing rule)",
@@ -37,17 +35,16 @@
   },
   {
    "name": "ULI Tampa Bay",
-   "type": "link_crawl",
-   "count": 0,
-   "state": "error",
-   "note": "could not load any listing page"
+   "type": "ics",
+   "count": 17,
+   "state": "ok"
   },
   {
    "name": "CREDA Tampa Bay (formerly NAIOP)",
    "type": "link_crawl",
    "count": 0,
-   "state": "error",
-   "note": "could not load any listing page"
+   "state": "empty",
+   "note": "no upcoming events found (listing loaded, but no event links matched link_regex)"
   },
   {
    "name": "CFMA Tampa Bay",
@@ -60,35 +57,26 @@
    "type": "link_crawl",
    "count": 0,
    "state": "error",
-   "note": "could not load any listing page"
+   "note": "could not load any listing page (HTTP 403 from https://www.tampabaychamber.com/index.php)"
   },
   {
    "name": "CREW Tampa Bay",
-   "type": "link_crawl",
-   "count": 0,
-   "state": "empty",
-   "note": "no upcoming events found"
+   "type": "crew",
+   "count": 28,
+   "state": "ok"
   },
   {
    "name": "NAWIC Tampa Chapter 36",
    "type": "link_crawl",
    "count": 0,
    "state": "error",
-   "note": "could not load any listing page"
-  },
-  {
-   "name": "Florida Gulfcoast Commercial Assn of REALTORS",
-   "type": "link_crawl",
-   "count": 0,
-   "state": "error",
-   "note": "could not load any listing page"
+   "note": "could not load any listing page (HTTP 403 from https://nawictampa.org/)"
   },
   {
    "name": "Bay Area Apartment Association",
    "type": "link_crawl",
-   "count": 0,
-   "state": "empty",
-   "note": "no upcoming events found"
+   "count": 6,
+   "state": "ok"
   },
   {
    "name": "AIA Tampa Bay",

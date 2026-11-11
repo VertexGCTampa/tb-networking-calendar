@@ -1,0 +1,27 @@
+{
+ "saved": "2026-11-11T14:34:42.155216+00:00",
+ "events": [
+  {
+   "org": "DBIA",
+   "title": "Florida Region Annual Awards Luncheon",
+   "start": "2026-11-19T16:15:00+00:00",
+   "end": "2026-11-19T19:00:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": "Alfond Inn,300 E. New England Ave. Winter Park, FL 32789",
+   "source_id": "dbia",
+   "recurring": false
+  },
+  {
+   "org": "DBIA",
+   "title": "6th Annual Tommy Rawls Clay Shoot",
+   "start": "2027-04-09T12:00:00+00:00",
+   "end": "2027-04-09T17:00:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": "Tampa Bay Sporting Clays,10514 Ehren Cutoff Land O'Lakes, FL 34639",
+   "source_id": "dbia",
+   "recurring": false
+  }
+ ]
+}

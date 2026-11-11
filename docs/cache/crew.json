@@ -1,0 +1,313 @@
+{
+ "saved": "2026-11-11T14:34:42.155216+00:00",
+ "events": [
+  {
+   "org": "CREW",
+   "title": "Designing for Impact: Strategy, Sustainability and Resilience in Today's Market",
+   "start": "2026-11-16T17:00:00-05:00",
+   "end": "2026-11-16T19:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=10886103-bd66-4681-a989-704074893984",
+   "location": "Gensler, 1001 Water Street, Suite 200, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Meet & Greet Coffee with CREW Tampa Bay",
+   "start": "2026-11-05T08:00:00-05:00",
+   "end": "2026-11-05T09:30:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=37c594ae-79eb-44f8-9492-bfb9d75061e1",
+   "location": "The Brothers Thomas Bespoke Cafe, 176 Carillon Parkway, St. Petersburg",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Book Club",
+   "start": "2026-11-17T16:30:00-05:00",
+   "end": "2026-11-17T18:30:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=3bd5c9ea-5b77-42ac-8036-e948a01801d9",
+   "location": "Choate Construction - Tampa, 1511 N. Westshore Blvd, Suite 600, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Cold Air, Hot Coffee, Warm Connections",
+   "start": "2026-12-15T08:00:00-05:00",
+   "end": "2026-12-15T09:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=5361ced8-1508-4136-96f5-3eaedf3cdd00",
+   "location": "The Lab Coffee West Tampa, 1703 W State Street, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Florida's Proposed Tax Amendment 3: From Ballot Language to Commercial Real Estate Implications",
+   "start": "2026-10-28T16:00:00-04:00",
+   "end": "2026-10-28T18:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=5908730c-ea76-4fe8-8918-d92ddd9216e5",
+   "location": "Baker Tilly, 100 South Ashley Drive, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Extended Monthly Luncheon",
+   "start": "2027-10-12T11:15:00-04:00",
+   "end": "2027-10-12T13:30:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=a3f9d279-3fae-4577-8273-21c98a31b88d",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Annual Jingle & Mingle Luncheon",
+   "start": "2026-12-08T11:15:00-05:00",
+   "end": "2026-12-08T13:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=e2a60115-9640-4e7b-a9b6-bec605db31f3",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Go Golf Tee Off Social",
+   "start": "2026-10-29T17:00:00-04:00",
+   "end": "2026-10-29T19:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=4fb7be5d-d140-4627-9567-4fa51daeb80d",
+   "location": "Birdie Club, 3409 S. Dale Mabry Highway, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "City in PINK 3D Mammogram Bus Screenings",
+   "start": "2026-10-28T13:00:00-04:00",
+   "end": "2026-10-28T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=3e4e9f5d-bced-4f21-80d6-b1f980d79068",
+   "location": "Corporate Center I, 2202 N West Shore Blvd Ste 122, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Monthly Luncheon",
+   "start": "2027-09-14T11:15:00-04:00",
+   "end": "2027-09-14T13:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=9f64e115-211f-4a43-b6d3-e3311111d8d1",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Monthly Luncheon: Behind-the-Scenes of Award-Winning Projects: Building Success Together",
+   "start": "2027-02-09T11:15:00-05:00",
+   "end": "2027-02-09T13:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=8a6ea80b-06e9-47ee-8651-d45db75655da",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Fall Sustainability Tour & Lunch at Fat Beet Farm",
+   "start": "2026-10-16T11:30:00-04:00",
+   "end": "2026-10-16T13:30:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=00150155-7a31-4bbf-a54a-708453047b3a",
+   "location": "Fat Beet Farm, 13830 W Hillsborough Ave, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Monthly Luncheon",
+   "start": "2027-03-02T11:15:00-05:00",
+   "end": "2027-03-02T13:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=6d6c8915-8017-4989-9b6e-95506bf42c91",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Monthly Luncheon: Inside the Data Center Surge",
+   "start": "2027-01-12T11:15:00-05:00",
+   "end": "2027-01-12T13:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=2682e20a-12d7-42e6-bca8-984c332dc8f3",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Work Smarter Series: The Art of Being Wildly Magnetic",
+   "start": "2026-11-18T16:00:00-05:00",
+   "end": "2026-11-18T18:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=9a7c2441-58f4-47b3-b5df-f08d67ce31f4",
+   "location": "Baker Tilly, 100 South Ashley Drive, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "5th Annual Go Golf Tournament Fundraiser",
+   "start": "2027-02-15T08:00:00-05:00",
+   "end": "2027-02-15T16:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=aedddbab-7a71-48ad-a8c4-9e39689064c2",
+   "location": "Hunter's Green Country Club, 18101 Longwater Run Dr, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "CREW Mates Kickoff & Connections Happy Hour",
+   "start": "2027-02-17T16:00:00-05:00",
+   "end": "2027-02-17T18:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=2fdc4658-4df4-4f96-a058-d3511fc7264f",
+   "location": "Centre Club, 123 S West Shore Blvd, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Members Only Lunch Around",
+   "start": "2027-01-20T11:30:00-05:00",
+   "end": "2027-01-20T13:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=9759f71a-4a56-462e-a906-ca38613ae6d4",
+   "location": "True Foods Kitchen, 3645 Midtown Drive, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "PINK Party",
+   "start": "2026-10-15T17:00:00-04:00",
+   "end": "2026-10-15T20:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=fd0c8d23-5d16-45b0-aee7-49010a63a6f3",
+   "location": "The Sail Pavilion, 333 S Franklin St, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Excellence Awards GALA",
+   "start": "2026-11-12T17:30:00-05:00",
+   "end": "2026-11-12T22:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=78d58424-8f57-4219-94f9-fa7d742dc5dc",
+   "location": "Armature Works, 1910 N Ola Ave, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Membership Appreciation Event",
+   "start": "2026-11-04T17:00:00-05:00",
+   "end": "2026-11-04T19:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=502c9755-a659-4367-b446-adff1ebb816e",
+   "location": "Empire & Co., 1000 N. Ashley Dr Suite 130, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "3D Printed Sustainable Affordable Housing",
+   "start": "2026-10-20T11:00:00-04:00",
+   "end": "2026-10-20T14:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=6a82356b-cf01-41cc-b0c4-3dfb9f5672ec",
+   "location": "CDC of Tampa, 1907 E Hillsborough Ave #100, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Monthly Luncheon",
+   "start": "2027-12-07T11:15:00-05:00",
+   "end": "2027-12-07T13:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=7c4eb0b2-4e48-4f09-ab93-4ca485e710a0",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Art Meets Development Presents: The Impact Of Art - Where Art & Development Meet",
+   "start": "2027-03-11T16:00:00-05:00",
+   "end": "2027-03-11T20:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=66041240-b699-4a25-86ef-458090ea1042",
+   "location": "Centro Asturiano de Tampa - Ballroom, 1913 N Nebraska Ave, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Monthly Luncheon",
+   "start": "2027-04-06T11:15:00-04:00",
+   "end": "2027-04-06T13:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=92fa8493-8df0-40ac-b4d0-fc1d7619d085",
+   "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "UCREW Mitchell Business Park Development Panel & Tour",
+   "start": "2027-02-19T09:30:00-05:00",
+   "end": "2027-02-19T14:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=8f3486fc-b00f-49f0-975e-50f7c50c5715",
+   "location": "Mitchell Business Park, 10402 Concord Drive, Trinity",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "Executive Council Annual Holiday Happy Hour",
+   "start": "2026-12-02T16:00:00-05:00",
+   "end": "2026-12-02T19:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=07ce4dea-951c-4e3a-939d-4e6eab7ded1a",
+   "location": "Maru Rooftop Nikkei, 2909 W Bay to Bay, Suite A-600, Tampa",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "St. Pete Pier: WJ Architects and Building for Culture & Resilience",
+   "start": "2026-10-13T17:00:00-04:00",
+   "end": "2026-10-13T19:00:00-04:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=488d97db-2383-434e-b6a8-6f0a6dc5232c",
+   "location": "Doc Ford's Rum Bar & Grille, 610 2nd Ave NE, St. Petersburg",
+   "source_id": "crew",
+   "recurring": false
+  }
+ ]
+}

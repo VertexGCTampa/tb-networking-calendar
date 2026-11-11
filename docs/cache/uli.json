@@ -1,0 +1,192 @@
+{
+ "saved": "2026-11-11T14:34:42.155216+00:00",
+ "events": [
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay YLG - Tampa November Coffee Chat Meet Up",
+   "start": "2026-11-05T07:30:00-05:00",
+   "end": "2026-11-05T09:00:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=09DA033D-10F8-48C5-B33E-1A6B14D5E383",
+   "location": "Willa'sProvisions, 1700 West Fig Street, Tampa, FL, 33606",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay YLG - Sarasota November Coffee Chat Meet Up",
+   "start": "2026-11-05T07:30:00-05:00",
+   "end": "2026-11-05T09:00:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=77BC3CDF-795E-401A-9C42-A1503C58551A",
+   "location": "Pastry Art Cafe, 1512 Main St, Sarasota, FL, 34236",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay YLG - Urban Smashdown: Pickleball Showdown",
+   "start": "2026-11-13T10:30:00-05:00",
+   "end": "2026-11-13T15:00:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=56152C68-B95B-48E0-99A8-5B976C7FAE0B",
+   "location": "Tampa Pickleball Crew, 1701 E 2nd Ave, Tampa, FL, 33605",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay NEXT - Airport Tour",
+   "start": "2026-11-17T16:00:00-05:00",
+   "end": "2026-11-17T18:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=32E5B9C6-FF8B-473D-BEB9-3FAD221051A8",
+   "location": "Tampa International Airport, 4100 George J Bean Pkwy, Tampa, FL, 33607-1402",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay - November StimULI - 2027 Emerging Trends in Real Estate: How Does Tampa Bay Stack Up?",
+   "start": "2026-11-19T07:30:00-05:00",
+   "end": "2026-11-19T09:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=975446ED-DC89-401E-856E-DA47B383386A",
+   "location": "Centre Club, 123 S West Shore Blvd 8th Floor, Tampa, FL, 33609",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay - Gas Plant Advisory Services Panel Report Presentation",
+   "start": "2026-12-04T09:30:00-05:00",
+   "end": "2026-12-04T12:00:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=8DC328DA-27D7-4C13-A16A-015E06081F4B",
+   "location": "Center for Health Equity, 2333 34th St S, St. Petersburg, FL, 33711",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay WLI - December BUILD UP Breakfast",
+   "start": "2026-12-08T08:30:00-05:00",
+   "end": "2026-12-08T10:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=B4E35FD8-AC5F-4D1F-9273-61DD2C2A4E5C",
+   "location": "Trenam, 200 Central Ave, Suite 1600, St. Petersburg, FL, 33701",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay 2026 Holiday Bash",
+   "start": "2026-12-08T17:30:00-05:00",
+   "end": "2026-12-08T19:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=638ADE71-0087-4E6E-AD05-979B69545F20",
+   "location": "Hotel Haya, 1412 E 7th Ave, Tampa, FL, 33605",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay WLI - Women of the Rays",
+   "start": "2027-01-14T16:30:00-05:00",
+   "end": "2027-01-14T18:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=ADB8EB20-BE89-4E19-89B2-882382E1F8D7",
+   "location": "Tropicana Field, 1 Tropicana Dr, Saint Petersburg, FL, 33705-1703",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay NEXT - Historic Sanchez Y Haya Restoration Tour",
+   "start": "2027-01-19T16:30:00-05:00",
+   "end": "2027-01-19T18:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=8ECC6A12-B1A6-4287-880B-E9166407D96D",
+   "location": "Sanchez Y Haya, 1601 E Columbus Drive, Tampa, FL, 33605",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay January StimULI",
+   "start": "2027-01-21T07:30:00-05:00",
+   "end": "2027-01-21T09:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=53F2BCC4-12BB-4370-9C89-4B794AE1B83C",
+   "location": "Centre Club, 123 S West Shore Blvd 8th Floor, Tampa, FL, 33609",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay - January Prospective & New Member Coffee Chat Meet Up",
+   "start": "2027-01-26T07:30:00-05:00",
+   "end": "2027-01-26T09:00:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=72998389-393E-4EA5-A453-54AF22525F00",
+   "location": "Kast Construction Office, 3615 Bromley Grand Ave, Suite 210, Tampa, FL, 33607",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay - 2027 Trends Conference",
+   "start": "2027-02-25T12:30:00-05:00",
+   "end": "2027-02-25T18:30:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=C446B889-D5CD-41E8-9491-3392318FD87D",
+   "location": "The Gathering at Armature Works, 1910 N Ola Ave, Tampa, FL, 33602",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Tampa Bay WLI - In Her Shoes: The Style & Stories of Women in the Industry",
+   "start": "2027-04-20T16:30:00-04:00",
+   "end": "2027-04-22T18:30:00-04:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=ED3D8BED-5226-43E9-BF48-9FEBAF9EFF08",
+   "location": "Woven Anew, 861 Central Ave, St. Petersburg, FL, 33701",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Florida: 2027 Florida Summit",
+   "start": "2027-05-05T12:00:00-04:00",
+   "end": "2027-05-07T13:00:00-04:00",
+   "all_day": false,
+   "url": "https://florida.uli.org/",
+   "location": "The Hyatt Regency Jacksonville, 225 E Coastline Dr, Jacksonville, FL, 32202-5458",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Learning Live Online Courses",
+   "start": "2027-06-30",
+   "end": null,
+   "all_day": true,
+   "url": "https://learning.uli.org/collections/current-live-courses",
+   "location": "",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "ULI Learning On Demand Courses",
+   "start": "2027-06-30T08:30:00-04:00",
+   "end": "2027-06-30T17:00:00-04:00",
+   "all_day": false,
+   "url": "https://learning.uli.org/collections/on-demand",
+   "location": "",
+   "source_id": "uli",
+   "recurring": false
+  }
+ ]
+}
