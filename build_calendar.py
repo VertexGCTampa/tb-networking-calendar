@@ -375,6 +375,8 @@ def src_link_crawl(src) -> list[Ev]:
         if not parsed:
             continue
         title, start, end, all_day, loc = parsed
+        if src.get("title_strip_regex"):
+            title = re.sub(src["title_strip_regex"], "", title).strip()
         if not title:
             continue
         out.append(mk_event(src["org"], title, start, end, all_day, url=url, location=loc))

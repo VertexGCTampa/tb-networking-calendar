@@ -158,3 +158,12 @@ sources:
     type: ics
     url: "https://viethconsulting.com/members/calendar/events_ical.php?org_id=BGTB"
     exclude_title_regex: "(?i)committee|BOMI|course|class|Electrical Systems|Leadership Academy|board meeting"
+
+  # 17 - REIC Tampa Bay (MemberClicks / JEvents calendar; titles start with the date, stripped)
+  - id: reic
+    org: REIC
+    name: Real Estate Investment Council Tampa Bay
+    type: link_crawl
+    list_urls: ["https://www.reictampabay.org/index.php?option=com_jevents&task=range.listevents&Itemid=124"]
+    link_regex: "reictampabay\\.org/index\\.php\\?option=com_jevents&task=icalrepeat\\.detail"
+    title_strip_regex: "^\\d{1,2}/\\d{1,2}/\\d{4}\\s*-\\s*"
