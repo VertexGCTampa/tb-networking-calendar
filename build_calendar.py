@@ -229,6 +229,26 @@ def parse_detail_page(html: str, url: str):
     if cm:
         return cm
 
+    # MemberClicks / JEvents pages label the parts: event-start-date, -start-time, -stop-time.
+    sd = soup.select_one(".event-start-date")
+    if sd and sd.get_text(strip=True):
+        t_el = soup.select_one(".mc-event-details-title")
+        ev_title = t_el.get_text(" ", strip=True) if t_el else (title or "")
+        st_el, en_el = soup.select_one(".event-start-time"), soup.select_one(".event-stop-time")
+        st_txt = st_el.get_text(" ", strip=True) if st_el else ""
+        en_txt = en_el.get_text(" ", strip=True) if en_el else ""
+        zm = re.search(r"\b(EDT|EST|ET|UTC|GMT)\b", en_txt or st_txt)
+        zone = zm.group(1) if zm else None
+        try:
+            tm1, tm2 = SINGLE_TIME.search(st_txt), SINGLE_TIME.search(en_txt)
+            if tm1:
+                start = _combine(sd.get_text(" ", strip=True), tm1.group(1), zone)
+                end = _combine(sd.get_text(" ", strip=True), tm2.group(1), zone) if tm2 else None
+                return clean(ev_title), start, end, False, ""
+            return clean(ev_title), _combine(sd.get_text(" ", strip=True), None, None), None, True, ""
+        except Exception:
+            pass
+
     # First pass strips page chrome; if that finds no time, retry on the whole page, because
     # some sites wrap their main content in an unclosed <nav>/<header> that the strip removes.
     full = BeautifulSoup(html, "html.parser")
