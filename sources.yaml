@@ -37,14 +37,6 @@ sources:
     link_regex: "members\\.tbba\\.net/events/details/"
     exclude_title_regex: "(?i)office closed|board of directors"
 
-  # 3 - SUCA (WordPress Events Calendar; has a real feed)
-  - id: suca
-    org: SUCA
-    name: Suncoast Utility Contractors Assn
-    type: tribe
-    url: https://suca.org
-    exclude_title_regex: "(?i)EC & Board|board meeting"
-
   # 4 - DBIA Florida (MemberLeap iCal feed, statewide - keep Gulf Coast + regional events)
   - id: dbia
     org: DBIA
@@ -112,8 +104,10 @@ sources:
     url: https://tampa-bay.crewnetwork.org
     chapter_code: TAM
 
-  # 11 - NAWIC Tampa #36 (StarChapter platform)
+  # 11 - NAWIC Tampa #36 (StarChapter). PAUSED: Cloudflare blocks GitHub's servers (HTTP 403).
+  #      Add NAWIC events to manual_events.yaml.
   - id: nawic
+    disabled: true
     org: NAWIC
     name: NAWIC Tampa Chapter 36
     type: link_crawl
