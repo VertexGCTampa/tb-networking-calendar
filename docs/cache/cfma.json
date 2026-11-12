@@ -1,94 +1,6 @@
 {
- "saved": "2026-11-11T19:22:58.032578+00:00",
+ "saved": "2026-11-12T11:15:05.847060+00:00",
  "events": [
-  {
-   "org": "CFMA",
-   "title": "CFMA VoS Board Meetings - Construction Financial Management Association",
-   "start": "2026-11-10T07:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-vos-board-meetings-52-2-5202",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "New Member Breakfast - Construction Financial Management Association",
-   "start": "2026-11-10T07:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/new-member-breakfast-5364",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Economic Outlook: From Tariff Turmoil to Turbulent Oil & Everything In Between - Construction Financial Management Association",
-   "start": "2026-11-10T08:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/economic-outlook-from-tariff-turmoil-to-turbulent-oil-and-everything-in-between-5381",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "KPIs That Build Success - Construction Financial Management Association",
-   "start": "2026-11-10T11:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/kpis-that-build-success-5417",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Annual Economic Update \u2013 Industry Outlook - Construction Financial Management Association",
-   "start": "2026-11-10T11:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/annual-economic-update-industry-outlook-4786",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Knowledge Network: Economic Update \u2013 Impact of mid-terms elections outcome on Economy and Contractors - Construction Financial Management Association",
-   "start": "2026-11-10T11:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/knowledge-network-economic-update-impact-of-mid-terms-elections-outcome-on-economy-and-con-5394",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "2026 Tax Update & Year-End Planning - Webinar - Construction Financial Management Association",
-   "start": "2026-11-10T15:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/2-26-tax-update-and-year-end-planning-webinar-5316",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "9th Annual Fowling Tournament - Construction Financial Management Association",
-   "start": "2026-11-10T17:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/9th-annual-fowling-tournament-5385",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
   {
    "org": "CFMA",
    "title": "Annual Tax Update - Construction Financial Management Association",
@@ -135,11 +47,11 @@
   },
   {
    "org": "CFMA",
-   "title": "CFMA New York Capital Region: November Breakfast Meeting - Construction Financial Management Association",
+   "title": "Industry Expert Roundtable - Construction Financial Management Association",
    "start": "2026-11-12T07:30:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-new-york-capital-region-november-breakfast-meeting-54-6-5406",
+   "url": "https://tampabay.cfma.org/events/details/industry-expert-roundtable-5324",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -157,11 +69,11 @@
   },
   {
    "org": "CFMA",
-   "title": "Industry Expert Roundtable - Construction Financial Management Association",
+   "title": "CFMA New York Capital Region: November Breakfast Meeting - Construction Financial Management Association",
    "start": "2026-11-12T07:30:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/industry-expert-roundtable-5324",
+   "url": "https://tampabay.cfma.org/events/details/cfma-new-york-capital-region-november-breakfast-meeting-54-6-5406",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -217,6 +129,94 @@
    "end": null,
    "all_day": false,
    "url": "https://tampabay.cfma.org/events/details/annual-golf-tournament-5139",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "CFMA New Member Open House (November 2026) - Construction Financial Management Association",
+   "start": "2026-11-16T14:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/cfma-new-member-open-house-november-2-26-5321",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "NYC Chapter: Tax Planning for Contractors - Construction Financial Management Association",
+   "start": "2026-11-17T08:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/nyc-chapter-tax-planning-for-contractors-5384",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "CFMA Idaho Annual Conference 2026 - Construction Financial Management Association",
+   "start": "2026-11-17T08:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/cfma-idaho-annual-conference-2-26-5414",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Beyond the Hard Hat: Mental Resilience & Leadership in Construction - Construction Financial Management Association",
+   "start": "2026-11-17T08:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/beyond-the-hard-hat-mental-resilience-and-leadership-in-construction-5082",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "CFMA Central Ohio Panel Financial Strategies for Growth - Construction Financial Management Association",
+   "start": "2026-11-17T11:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/cfma-central-ohio-panel-financial-strategies-for-growth-533-5330",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Audit, Review & Tax Readiness: Best Practices for a Smooth Season - Construction Financial Management Association",
+   "start": "2026-11-17T12:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/audit-review-and-tax-readiness-best-practices-for-a-smooth-season-5422",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Webinar: Beyond the Deal: The Leadership and Financial Blueprint for Transitions That Actually Work (CFMC Post Conference) - Construction Financial Management Association",
+   "start": "2026-11-17T15:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/webinar-beyond-the-deal-the-leadership-and-financial-blueprint-for-transitions-that-actual-5346",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "AI Best Practices, Economic Changes & Year-End Preparation - Construction Financial Management Association",
+   "start": "2026-11-18T07:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/ai-best-practices-economic-changes-and-year-end-preparation-4729",
    "location": "",
    "source_id": "cfma",
    "recurring": false
