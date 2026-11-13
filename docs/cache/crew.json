@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-12T11:15:05.847060+00:00",
+ "saved": "2026-11-13T11:10:05.406654+00:00",
  "events": [
   {
    "org": "CREW",
@@ -295,17 +295,6 @@
    "all_day": false,
    "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=07ce4dea-951c-4e3a-939d-4e6eab7ded1a",
    "location": "Maru Rooftop Nikkei, 2909 W Bay to Bay, Suite A-600, Tampa",
-   "source_id": "crew",
-   "recurring": false
-  },
-  {
-   "org": "CREW",
-   "title": "St. Pete Pier: WJ Architects and Building for Culture & Resilience",
-   "start": "2026-10-13T17:00:00-04:00",
-   "end": "2026-10-13T19:00:00-04:00",
-   "all_day": false,
-   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=488d97db-2383-434e-b6a8-6f0a6dc5232c",
-   "location": "Doc Ford's Rum Bar & Grille, 610 2nd Ave NE, St. Petersburg",
    "source_id": "crew",
    "recurring": false
   }

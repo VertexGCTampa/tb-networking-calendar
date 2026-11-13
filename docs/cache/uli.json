@@ -1,28 +1,6 @@
 {
- "saved": "2026-11-12T11:15:05.847060+00:00",
+ "saved": "2026-11-13T11:10:05.406654+00:00",
  "events": [
-  {
-   "org": "ULI",
-   "title": "ULI Tampa Bay YLG - Tampa November Coffee Chat Meet Up",
-   "start": "2026-11-05T07:30:00-05:00",
-   "end": "2026-11-05T09:00:00-05:00",
-   "all_day": false,
-   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=09DA033D-10F8-48C5-B33E-1A6B14D5E383",
-   "location": "Willa'sProvisions, 1700 West Fig Street, Tampa, FL, 33606",
-   "source_id": "uli",
-   "recurring": false
-  },
-  {
-   "org": "ULI",
-   "title": "ULI Tampa Bay YLG - Sarasota November Coffee Chat Meet Up",
-   "start": "2026-11-05T07:30:00-05:00",
-   "end": "2026-11-05T09:00:00-05:00",
-   "all_day": false,
-   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=77BC3CDF-795E-401A-9C42-A1503C58551A",
-   "location": "Pastry Art Cafe, 1512 Main St, Sarasota, FL, 34236",
-   "source_id": "uli",
-   "recurring": false
-  },
   {
    "org": "ULI",
    "title": "ULI Tampa Bay YLG - Urban Smashdown: Pickleball Showdown",

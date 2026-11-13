@@ -1,28 +1,6 @@
 {
- "saved": "2026-11-12T11:15:05.847060+00:00",
+ "saved": "2026-11-13T11:10:05.406654+00:00",
  "events": [
-  {
-   "org": "AGC",
-   "title": "Tampa Luncheon",
-   "start": "2026-11-12T23:00:00.029000+00:00",
-   "end": "2026-11-13T00:00:00.029000+00:00",
-   "all_day": false,
-   "url": "https://www.floridaagc.com/sfagc-events/tampa-holiday-event",
-   "location": "TBD",
-   "source_id": "agc",
-   "recurring": false
-  },
-  {
-   "org": "AGC",
-   "title": "YCF's Contractors On Ice",
-   "start": "2026-11-12T23:00:00.793000+00:00",
-   "end": "2026-11-13T04:59:00.793000+00:00",
-   "all_day": false,
-   "url": "https://www.floridaagc.com/sfagc-events/ycfs-contractors-on-ice",
-   "location": "",
-   "source_id": "agc",
-   "recurring": false
-  },
   {
    "org": "AGC",
    "title": "2026 South Florida Skills Challenge",
