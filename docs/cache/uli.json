@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-13T11:10:05.406654+00:00",
+ "saved": "2026-11-14T10:52:18.861657+00:00",
  "events": [
   {
    "org": "ULI",
@@ -40,7 +40,7 @@
    "start": "2026-12-04T09:30:00-05:00",
    "end": "2026-12-04T12:00:00-05:00",
    "all_day": false,
-   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=8DC328DA-27D7-4C13-A16A-015E06081F4B",
+   "url": "",
    "location": "Center for Health Equity, 2333 34th St S, St. Petersburg, FL, 33711",
    "source_id": "uli",
    "recurring": false

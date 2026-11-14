@@ -1,72 +1,6 @@
 {
- "saved": "2026-11-13T11:10:05.406654+00:00",
+ "saved": "2026-11-14T10:52:18.861657+00:00",
  "events": [
-  {
-   "org": "CFMA",
-   "title": "Industry Expert Roundtable - Construction Financial Management Association",
-   "start": "2026-11-12T07:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/industry-expert-roundtable-5324",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "November Chapter Meeting & Panel: How to Improve your Bonding Program - Construction Financial Management Association",
-   "start": "2026-11-12T07:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/november-chapter-meeting-and-panel-how-to-improve-your-bonding-program-5022",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "CFMA New York Capital Region: November Breakfast Meeting - Construction Financial Management Association",
-   "start": "2026-11-12T07:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-new-york-capital-region-november-breakfast-meeting-54-6-5406",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Knoxville CFMA\u2019s Giving Back Month - Tiny Trees for Tiny Patients - Construction Financial Management Association",
-   "start": "2026-11-12T10:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/knoxville-cfma-s-giving-back-month-tiny-trees-for-tiny-patients-5223",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Tax Update - Construction Financial Management Association",
-   "start": "2026-11-12T11:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/tax-update-5419",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Oklahoma Aviation Academy Job Site Tour + Happy Hour - Construction Financial Management Association",
-   "start": "2026-11-12T15:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/oklahoma-aviation-academy-job-site-tour-and-happy-hour-5176",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
   {
    "org": "CFMA",
    "title": "CFMA Cincinnati Clay Shoot - Construction Financial Management Association",
@@ -217,6 +151,72 @@
    "end": null,
    "all_day": false,
    "url": "https://tampabay.cfma.org/events/details/digital-twin-technology-5411",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Nevada\u2019s Economic Momentum: Diversification, Incentives, and the Road Ahead - Construction Financial Management Association",
+   "start": "2026-11-18T11:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/nevada-s-economic-momentum-diversification-incentives-and-the-road-ahead-5413",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Tax Update - Construction Financial Management Association",
+   "start": "2026-11-18T11:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/tax-update-4953",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Annual Tax Update - Construction Financial Management Association",
+   "start": "2026-11-18T11:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/annual-tax-update-5322",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "CFMA Website / Tools & Resources (Virtual Meeting) - Construction Financial Management Association",
+   "start": "2026-11-18T12:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/cfma-website-tools-and-resources-virtual-meeting-5433",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Second Harvest Heartland Service Project and Happy Hour - Construction Financial Management Association",
+   "start": "2026-11-18T12:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/second-harvest-heartland-service-project-and-happy-hour-5357",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Volunteer with Cradles to Crayons + Networking Social - Construction Financial Management Association",
+   "start": "2026-11-18T13:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/volunteer-with-cradles-to-crayons-and-networking-social-5378",
    "location": "",
    "source_id": "cfma",
    "recurring": false

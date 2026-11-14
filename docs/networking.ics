@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] PINK Party
 DTSTART:20261015T210000Z
 DTEND:20261016T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:18c40ba93fbc577e5f5b098f40aa3b9c0231b829@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Fall Sustainability Tour & Lunch at Fat Beet Farm
 DTSTART:20261016T153000Z
 DTEND:20261016T173000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:897ebdd21180502fb2036d67125c75f834a91d08@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -42,7 +42,7 @@ SUMMARY:[ABC] SOLD OUT - ABC Superintendent Academy (in partnership with U
  F)
 DTSTART:20261019T120000Z
 DTEND:20261019T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:58e333aa7fb4eedc77f116141185a67b2e2a81d2@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] 3D Printed Sustainable Affordable Housing
 DTSTART:20261020T150000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:d1db65feaaa0af16e4a4e4330fa9e67da8f198ec@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] SOLD OUT - Chapter Merit Shop Golf Tournament
 DTSTART:20261022T110000Z
 DTEND:20261022T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:a07dd708146bb67016cfe3cfaa1d4c7243fe1bd6@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -87,7 +87,7 @@ SUMMARY:[ABC] Lunch & Learn - Roadblocks. Risk. Recovery. - Keeping Your B
  usiness Running No Matter What
 DTSTART:20261027T150000Z
 DTEND:20261027T163000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:2c15a322426ed2ed9f7ee8ee59efffb5cddf519e@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] City in PINK 3D Mammogram Bus Screenings
 DTSTART:20261028T170000Z
 DTEND:20261028T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:706f9cc1f52cb03c030f4f63f09c770e5349c9ae@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -118,7 +118,7 @@ SUMMARY:[CREW] Florida's Proposed Tax Amendment 3: From Ballot Language to
   Commercial Real Estate Implications
 DTSTART:20261028T200000Z
 DTEND:20261028T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ad59cf24474f440d920bb93f01d390ee259e6202@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Go Golf Tee Off Social
 DTSTART:20261029T210000Z
 DTEND:20261029T230000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:e79912e9cc5abc0f7aee4a2d261cbd76965c6af4@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Young Professionals - Halloween Costume Party
 DTSTART:20261029T213000Z
 DTEND:20261029T233000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:8cb354865a06c606e22f4e0d87c7b89c55110cd9@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Membership Appreciation Event
 DTSTART:20261104T220000Z
 DTEND:20261105T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9ed532f75968dc5e00890edb250985d69d6561fb@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Meet & Greet Coffee with CREW Tampa Bay
 DTSTART:20261105T130000Z
 DTEND:20261105T143000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:32a954b55aba426fe75d0582e1bbcd1dc85d59fd@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:[BAAA] Holiday Party & Board Installation
 DTSTART:20261106T220000Z
 DTEND:20261107T020000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:3da7add98988091b1e860577386e739145bb1b71@tb-networking
 CATEGORIES:BAAA
 DESCRIPTION:Organization: BAAA\nDetails / registration: https://www.baaahq
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] FREE Florida Building Code Training: 9th Edition (2026) FBC
 DTSTART:20261110T150000Z
 DTEND:20261110T170000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ca5b2aace4d6844a22ca0cb0cff1e930384d811f@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] City of Tampa Gov't Affairs Meeting
 DTSTART:20261110T183000Z
 DTEND:20261110T193000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:055439c8d148f045f614978730a310d551057e42@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -230,54 +230,10 @@ URL:https://members.tbba.net/events/details/city-of-tampa-gov-t-affairs-me
  eting-2576?calendarMonth=2026-11-01
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CFMA] Industry Expert Roundtable - Construction Financial Managem
- ent Association
-DTSTART:20261112T123000Z
-DTEND:20261112T143000Z
-DTSTAMP:20261113T111005Z
-UID:3fb11d77020df7d7cd16baee17005c68daa54d5c@tb-networking
-CATEGORIES:CFMA
-DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
- fma.org/events/details/industry-expert-roundtable-5324
-TRANSP:TRANSPARENT
-URL:https://tampabay.cfma.org/events/details/industry-expert-roundtable-53
- 24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CFMA] November Chapter Meeting & Panel: How to Improve your Bondi
- ng Program - Construction Financial Management Association
-DTSTART:20261112T123000Z
-DTEND:20261112T143000Z
-DTSTAMP:20261113T111005Z
-UID:33cd8304769b73c837413cf913b8367d75026e11@tb-networking
-CATEGORIES:CFMA
-DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
- fma.org/events/details/november-chapter-meeting-and-panel-how-to-improve-y
- our-bonding-program-5022
-TRANSP:TRANSPARENT
-URL:https://tampabay.cfma.org/events/details/november-chapter-meeting-and-
- panel-how-to-improve-your-bonding-program-5022
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CFMA] CFMA New York Capital Region: November Breakfast Meeting - 
- Construction Financial Management Association
-DTSTART:20261112T123000Z
-DTEND:20261112T143000Z
-DTSTAMP:20261113T111005Z
-UID:26a3c2ff30f565df328da8d7b38ac63ec318c6c6@tb-networking
-CATEGORIES:CFMA
-DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
- fma.org/events/details/cfma-new-york-capital-region-november-breakfast-mee
- ting-54-6-5406
-TRANSP:TRANSPARENT
-URL:https://tampabay.cfma.org/events/details/cfma-new-york-capital-region-
- november-breakfast-meeting-54-6-5406
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AIA] Sarasota Design Conference
 DTSTART:20261112T140000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:64aebbe71022596c39e1df8ec04c84c48d7bd80d@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -287,25 +243,10 @@ TRANSP:TRANSPARENT
 URL:https://www.aiatampabay.com/events-programs/sarasota-design-conference
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CFMA] Knoxville CFMA’s Giving Back Month - Tiny Trees for Tiny 
- Patients - Construction Financial Management Association
-DTSTART:20261112T153000Z
-DTEND:20261112T173000Z
-DTSTAMP:20261113T111005Z
-UID:2e8ef759f8616abe659df2c54ed27469d9878f51@tb-networking
-CATEGORIES:CFMA
-DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
- fma.org/events/details/knoxville-cfma-s-giving-back-month-tiny-trees-for-t
- iny-patients-5223
-TRANSP:TRANSPARENT
-URL:https://tampabay.cfma.org/events/details/knoxville-cfma-s-giving-back-
- month-tiny-trees-for-tiny-patients-5223
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[TBBA] TBBA Lunch Grab -- Builder Purchasing Professionals
 DTSTART:20261112T163000Z
 DTEND:20261112T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:afeb7bb9da94e3ed5b8ac7e797872df57a7e7aa3@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -316,37 +257,10 @@ URL:https://members.tbba.net/events/details/tbba-lunch-grab-builder-purcha
  sing-professionals-2578?calendarMonth=2026-11-01
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CFMA] Tax Update - Construction Financial Management Association
-DTSTART:20261112T163000Z
-DTEND:20261112T183000Z
-DTSTAMP:20261113T111005Z
-UID:f2c2a58b9d625591d93228452fc20e351591b1d1@tb-networking
-CATEGORIES:CFMA
-DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
- fma.org/events/details/tax-update-5419
-TRANSP:TRANSPARENT
-URL:https://tampabay.cfma.org/events/details/tax-update-5419
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CFMA] Oklahoma Aviation Academy Job Site Tour + Happy Hour - Cons
- truction Financial Management Association
-DTSTART:20261112T200000Z
-DTEND:20261112T220000Z
-DTSTAMP:20261113T111005Z
-UID:b3b813f538b2c45b56e865e0b4a969e053c670af@tb-networking
-CATEGORIES:CFMA
-DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
- fma.org/events/details/oklahoma-aviation-academy-job-site-tour-and-happy-h
- our-5176
-TRANSP:TRANSPARENT
-URL:https://tampabay.cfma.org/events/details/oklahoma-aviation-academy-job
- -site-tour-and-happy-hour-5176
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Gov't Affairs Committee Meeting - Virtual Only
 DTSTART:20261112T210000Z
 DTEND:20261112T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:28a1d32f81552fd6e63f7125e9546e26db8ce269@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -360,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Chili Cook-Off
 DTSTART:20261112T223000Z
 DTEND:20261113T003000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9ba5079149e25159c40ce1bdd9ba44cf8f2bd163@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -373,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Excellence Awards GALA
 DTSTART:20261112T223000Z
 DTEND:20261113T030000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:111689d115d058ff92cb1bdabb61d7fb41d5ff89@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -385,22 +299,10 @@ URL:https://cart2.crewnetwork.org/special-pages/event-registration?eventId
  =78d58424-8f57-4219-94f9-fa7d742dc5dc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[BOMA] November 2026 Engineer's Breakfast
-DTSTART:20261113T123000Z
-DTEND:20261113T140000Z
-DTSTAMP:20261113T111005Z
-UID:4576741f421b43202a1537f336e0f8b1b3bde0d9@tb-networking
-CATEGORIES:BOMA
-DESCRIPTION:Organization: BOMA
-LOCATION:Corporate Center III\,4221 W. Boy Scout Boulevard\, Suite 140 Tam
- pa\, FL 33607
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[TBBA] 2026 TBBA Slam Fishing Tournament - Rescheduled
 DTSTART:20261113T130000Z
 DTEND:20261113T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:b0a43ea7cf75475bff01ee9f41810e0982e4e9bc@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -414,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Tampa Bay YLG - Urban Smashdown: Pickleball Showdown
 DTSTART:20261113T153000Z
 DTEND:20261113T200000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:35b16869ea22c7221799c788a8119c34c6d7e406@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -430,7 +332,7 @@ SUMMARY:[CFMA] CFMA Cincinnati Clay Shoot - Construction Financial Managem
  ent Association
 DTSTART:20261113T170000Z
 DTEND:20261113T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c4b7641ec31ff8604ae2c10a926a83ce6a9a6571@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -443,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] YP Volunteer Opportunity - Feeding Tampa Bay
 DTSTART:20261113T180000Z
 DTEND:20261113T203000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9821157d71e1dc69fd291d231b0956242c13eb5a@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -458,7 +360,7 @@ SUMMARY:[ABC] Young Professionals Happy Hour (Benefiting Feeding Tampa Bay
  )
 DTSTART:20261113T200000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:114099c9ac52ba7b1fbda4c8a9c36eb6343a74be@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -474,7 +376,7 @@ SUMMARY:[CFMA] Annual Golf Tournament - Construction Financial Management
  Association
 DTSTART:20261116T160000Z
 DTEND:20261116T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:610065760be38a634e9185c538f6751c52a28226@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -487,7 +389,7 @@ SUMMARY:[CFMA] CFMA New Member Open House (November 2026) - Construction F
  inancial Management Association
 DTSTART:20261116T190000Z
 DTEND:20261116T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9b30549fc9c6b0e5930a29f5a42e65893bdd54c6@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -501,7 +403,7 @@ SUMMARY:[CREW] Designing for Impact: Strategy\, Sustainability and Resilie
  nce in Today's Market
 DTSTART:20261116T220000Z
 DTEND:20261117T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:409f9c93ad5baba7fe9f1ffbb451a2f3a7cb1884@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -517,7 +419,7 @@ SUMMARY:[CFMA] Beyond the Hard Hat: Mental Resilience & Leadership in Cons
  truction - Construction Financial Management Association
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:35b06b224007f8bcf4330cba26dde52333304f52@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -532,7 +434,7 @@ SUMMARY:[CFMA] NYC Chapter: Tax Planning for Contractors - Construction Fi
  nancial Management Association
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:dc3e92adc199bdb2407f79451398a2aa4f66e3ea@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -546,7 +448,7 @@ SUMMARY:[CFMA] CFMA Idaho Annual Conference 2026 - Construction Financial
  Management Association
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ad2659a5b8c816b1c247bb2e862320267bb1f733@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -559,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] St. Petersburg Gov't Affairs Meeting
 DTSTART:20261117T140000Z
 DTEND:20261118T033000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:71adef9c61c49fb857f2104d84f5f880bf86c7f9@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -574,7 +476,7 @@ SUMMARY:[CFMA] CFMA Central Ohio Panel Financial Strategies for Growth - C
  onstruction Financial Management Association
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:e8b127ff6500db228f3eb36a60b838626f7a92e0@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -588,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] TBBA Lunch Grab -- Land Acquisition Professionals
 DTSTART:20261117T163000Z
 DTEND:20261117T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:4b72d12a216e1ac308592779d3ec3fcf381930e8@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -603,7 +505,7 @@ SUMMARY:[CFMA] Audit\, Review & Tax Readiness: Best Practices for a Smooth
   Season - Construction Financial Management Association
 DTSTART:20261117T170000Z
 DTEND:20261117T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:cd1af2b07e8b13022163c74838f526228a4a2e5e@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -619,7 +521,7 @@ SUMMARY:[CFMA] Webinar: Beyond the Deal: The Leadership and Financial Blue
  tion Financial Management Association
 DTSTART:20261117T200000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:94a5290919aa544208f31a6ea7116d67e880dd9f@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -633,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Tampa Bay NEXT - Airport Tour
 DTSTART:20261117T210000Z
 DTEND:20261117T233000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:eac9b806da3a046dd380426d723da90a7360edf2@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -649,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Book Club
 DTSTART:20261117T213000Z
 DTEND:20261117T233000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:4dcd9b3774cbb1cfa8d5cfbac74b9795f8bab01a@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -665,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] USF FALL Lecture Series with Fadi Garcia + Jad Alawar
 DTSTART:20261117T233000Z
 DTEND:20261118T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c3b64339c759253a88aaea8fefc261aeeec28422@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -679,7 +581,7 @@ SUMMARY:[CFMA] AI Best Practices\, Economic Changes & Year-End Preparation
   - Construction Financial Management Association
 DTSTART:20261118T123000Z
 DTEND:20261118T143000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c41fc1877f9fdfe1f4a23713c12c7dc098470069@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -695,7 +597,7 @@ SUMMARY:[CFMA] November Membership Meeting: Payroll Implementation & Integ
  n
 DTSTART:20261118T130000Z
 DTEND:20261118T150000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:f1cbae9d869c765f3bd53f88baa4636b23bf4eba@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -710,7 +612,7 @@ SUMMARY:[CFMA] Triangle CFMA November 2026 Chapter Meeting - Construction
  Financial Management Association
 DTSTART:20261118T130000Z
 DTEND:20261118T150000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:b0532ceb7840b388ba84aa635d862521ff4ee671@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -724,7 +626,7 @@ SUMMARY:[CFMA] November Educational Event - Construction Financial Managem
  ent Association
 DTSTART:20261118T160000Z
 DTEND:20261118T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:63c51ab2729b8ce23bb1cb76c3567af2ca99c0b3@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -738,7 +640,7 @@ SUMMARY:[CFMA] Digital Twin Technology - Construction Financial Management
   Association
 DTSTART:20261118T160000Z
 DTEND:20261118T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:8f852c9464e1d824f3707eaf0ba81ab3f72ed446@tb-networking
 CATEGORIES:CFMA
 DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
@@ -747,10 +649,95 @@ TRANSP:TRANSPARENT
 URL:https://tampabay.cfma.org/events/details/digital-twin-technology-5411
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CFMA] Nevada’s Economic Momentum: Diversification\, Incentives
+ \, and the Road Ahead - Construction Financial Management Association
+DTSTART:20261118T163000Z
+DTEND:20261118T183000Z
+DTSTAMP:20261114T105218Z
+UID:5b5c0a3cbcdef38ea4f458cd5ee72a4051c8dc4b@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/nevada-s-economic-momentum-diversification-incentiv
+ es-and-the-road-ahead-5413
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/nevada-s-economic-momentum-di
+ versification-incentives-and-the-road-ahead-5413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Tax Update - Construction Financial Management Association
+DTSTART:20261118T163000Z
+DTEND:20261118T183000Z
+DTSTAMP:20261114T105218Z
+UID:1dfc29f235fc11982f0cbd88ec609ac812b126b7@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/tax-update-4953
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/tax-update-4953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Annual Tax Update - Construction Financial Management Assoc
+ iation
+DTSTART:20261118T163000Z
+DTEND:20261118T183000Z
+DTSTAMP:20261114T105218Z
+UID:50eecfb7f0e17dd05392941b0b26ac6e45031ef3@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/annual-tax-update-5322
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/annual-tax-update-5322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] CFMA Website / Tools & Resources (Virtual Meeting) - Constr
+ uction Financial Management Association
+DTSTART:20261118T170000Z
+DTEND:20261118T190000Z
+DTSTAMP:20261114T105218Z
+UID:686b6e7c777776ca3f3be403782424ccd8e189b2@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/cfma-website-tools-and-resources-virtual-meeting-54
+ 33
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/cfma-website-tools-and-resour
+ ces-virtual-meeting-5433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Second Harvest Heartland Service Project and Happy Hour - C
+ onstruction Financial Management Association
+DTSTART:20261118T173000Z
+DTEND:20261118T193000Z
+DTSTAMP:20261114T105218Z
+UID:919d089f986aeec8b67fef05e8f0eec1d9b08ed6@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/second-harvest-heartland-service-project-and-happy-
+ hour-5357
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/second-harvest-heartland-serv
+ ice-project-and-happy-hour-5357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFMA] Volunteer with Cradles to Crayons + Networking Social - Con
+ struction Financial Management Association
+DTSTART:20261118T180000Z
+DTEND:20261118T200000Z
+DTSTAMP:20261114T105218Z
+UID:66b46c0bd136f2770d6334ff61edf81ec0b2cee8@tb-networking
+CATEGORIES:CFMA
+DESCRIPTION:Organization: CFMA\nDetails / registration: https://tampabay.c
+ fma.org/events/details/volunteer-with-cradles-to-crayons-and-networking-so
+ cial-5378
+TRANSP:TRANSPARENT
+URL:https://tampabay.cfma.org/events/details/volunteer-with-cradles-to-cra
+ yons-and-networking-social-5378
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20261118T203000Z
 DTEND:20261118T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:b302eb1d1338ab9bb8606fc99feb09bdf2d377f7@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -764,7 +751,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Work Smarter Series: The Art of Being Wildly Magnetic
 DTSTART:20261118T210000Z
 DTEND:20261118T230000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:6a746f13262200cb2eb738b0961e48ba36c99aa9@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -779,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:[REIC] The Mechanics of Affordable Housing
 DTSTART:20261118T223000Z
 DTEND:20261119T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:7cf83bd607cb0af6fe150d8e1f3433d53c3e2692@tb-networking
 CATEGORIES:REIC
 DESCRIPTION:Organization: REIC\nDetails / registration: https://www.reicta
@@ -796,7 +783,7 @@ SUMMARY:[ULI] ULI Tampa Bay - November StimULI - 2027 Emerging Trends in R
  eal Estate: How Does Tampa Bay Stack Up?
 DTSTART:20261119T123000Z
 DTEND:20261119T143000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:e2cc290e5fa2ac946d64099eec4e9231b63b0e94@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -812,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Sporting Clay Tournament
 DTSTART:20261119T130000Z
 DTEND:20261119T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:7a501dad5ac14b5af213c66cffb1601fa630bcf2@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -825,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:[AGC] 2026 South Florida Skills Challenge
 DTSTART:20261119T130000Z
 DTEND:20261119T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:21b23f54ce51057a2852186861211eb7a1310f92@tb-networking
 CATEGORIES:AGC
 DESCRIPTION:Organization: AGC\nDetails / registration: https://www.florida
@@ -840,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Florida Region Annual Awards Luncheon
 DTSTART:20261119T161500Z
 DTEND:20261119T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ceb9b1c224959849b71198a0710b9065bd420d1e@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA
@@ -851,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] 2026 Awards of Excellence: 11/19/26
 DTSTART:20261119T223000Z
 DTEND:20261120T023000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:adda538f6f7a23652380c272446bd22866e58ea4@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -865,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Tampa Drawn Together
 DTSTART:20261119T223000Z
 DTEND:20261120T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c72ba5674432b87fccab928fe5aaf3cd338e074a@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -879,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] WIA Mixer with a Mission Pajama Drive
 DTSTART:20261119T223000Z
 DTEND:20261120T003000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:330acf0a9d0f8cd4e1383ceea9079de09b42f0ac@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -893,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:[BAAA] Hatching Hope Care Kit Event
 DTSTART:20261120T140000Z
 DTEND:20261120T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:92e47e2d8b9cb7a2d3536f878c1f2fea1075e376@tb-networking
 CATEGORIES:BAAA
 DESCRIPTION:Organization: BAAA\nDetails / registration: https://www.baaahq
@@ -905,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Happy Thanksgiving!
 DTSTART:20261126T050000Z
 DTEND:20261127T045900Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:8ae0a62b52d99b31bf7039bd330dcd2a91ff7c1a@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -917,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] TBBA Holiday Gathering
 DTSTART:20261202T210000Z
 DTEND:20261202T230000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:39a8d5562501377e53deb2c5ff797affb479f91f@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -930,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Executive Council Annual Holiday Happy Hour
 DTSTART:20261202T210000Z
 DTEND:20261203T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9aa988ba611d5705c081dc40e9c9f586fa4e3787@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -945,7 +932,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] FREE Florida Building Code Training: 9th Edition (2026) FBC
 DTSTART:20261203T190000Z
 DTEND:20261203T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ad59f5731e10d64ebaf26d64c49f93558ce8fed4@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -959,7 +946,7 @@ BEGIN:VEVENT
 SUMMARY:[BOMA] Annual Holiday Social
 DTSTART:20261203T210000Z
 DTEND:20261204T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:34ccf5d8980cce3ed6ab077ead391ca9db9486da@tb-networking
 CATEGORIES:BOMA
 DESCRIPTION:Organization: BOMA
@@ -971,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:[BAAA] Volunteer Day + Happy Hour
 DTSTART:20261204T140000Z
 DTEND:20261204T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:06e39856b9e3cffbab8a81bbc66f83a2371bb93d@tb-networking
 CATEGORIES:BAAA
 DESCRIPTION:Organization: BAAA\nDetails / registration: https://www.baaahq
@@ -984,23 +971,19 @@ SUMMARY:[ULI] ULI Tampa Bay - Gas Plant Advisory Services Panel Report Pre
  sentation
 DTSTART:20261204T143000Z
 DTEND:20261204T170000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:026137ff67c4bdd37aabd86d85f85261ae30b435@tb-networking
 CATEGORIES:ULI
-DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
- i.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=8DC328DA-27D7-4C
- 13-A16A-015E06081F4B
+DESCRIPTION:Organization: ULI
 LOCATION:Center for Health Equity\, 2333 34th St S\, St. Petersburg\, FL\,
   33711
 TRANSP:TRANSPARENT
-URL:https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_e
- vt_key=8DC328DA-27D7-4C13-A16A-015E06081F4B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ABC] Women in Construction - Holiday Brunch
 DTSTART:20261204T160000Z
 DTEND:20261204T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:d240cba46d5a1184d767358d0b9e046038ba14a3@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1014,7 +997,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Holiday Party at SAFDS
 DTSTART:20261204T230000Z
 DTEND:20261205T013000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:113c925dd0bbcb9be4a46210e8364f005525b52d@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1028,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Tampa Bay WLI - December BUILD UP Breakfast
 DTSTART:20261208T133000Z
 DTEND:20261208T153000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:4a69faf85d6ece9fa966c8cb7b87350bc5cce8ff@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1044,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Annual Jingle & Mingle Luncheon
 DTSTART:20261208T161500Z
 DTEND:20261208T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:a83e35e02c16cc604b082bc4c53193a5252f081d@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1059,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Tampa Bay 2026 Holiday Bash
 DTSTART:20261208T223000Z
 DTEND:20261209T003000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:5a115dcaa97e132e2d2d01de3284cfe0e97de106@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1074,7 +1057,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] USF OPEN HOUSE
 DTSTART:20261208T230000Z
 DTEND:20261209T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ea709afbbdfd3813ba12ec59bfa4823031812221@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1088,7 +1071,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] 2026 Fall Golf Tournament: 12/10/26
 DTSTART:20261210T123000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:623c7ef16e5feaa966cbdab1e2824c374c87db3c@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1102,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Holiday Social
 DTSTART:20261210T223000Z
 DTEND:20261211T003000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:1d9d8a318f96e9b80e3b5c55dc821f8c159205df@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1115,7 +1098,7 @@ BEGIN:VEVENT
 SUMMARY:[AGC] YCF Dinner With A Winner
 DTSTART:20261210T230000Z
 DTEND:20261211T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:973beda79723e492dbeb5245ef5e4497aad299bf@tb-networking
 CATEGORIES:AGC
 DESCRIPTION:Organization: AGC\nDetails / registration: https://www.florida
@@ -1129,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] SMC Charity Day: Peanut Butter Jelly Time
 DTSTART:20261214T150000Z
 DTEND:20261214T203000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:4b987476a5b1921968c9bfea624eacaf843781e2@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1143,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Cold Air\, Hot Coffee\, Warm Connections
 DTSTART:20261215T130000Z
 DTEND:20261215T140000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:efa19f629416bda79f3f28c99e201d614d6d3e5b@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1158,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] FREE Florida Building Code Training: 9th Edition (2026) FBC
 DTSTART:20261215T150000Z
 DTEND:20261215T170000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:015b1ba10f58a5fbe04f8df4726f87b982913f83@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1172,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20261216T203000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:80aaedd7cd97a3b3fe662f7656dbad9409f87a75@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -1186,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Annual Meat\, Eat\, & Skeet Sporting Clays Tournament 2026
 DTSTART:20261218T163000Z
 DTEND:20261218T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:37cd5f7f60323b843bbf05f20fd379abd0d8b7e8@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1200,7 +1183,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Merry Christmas!
 DTSTART:20261225T050000Z
 DTEND:20261226T045900Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:5fb2f300a9933cddb95ce09e5d6f3ed560e62666@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1212,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Monthly Luncheon: Inside the Data Center Surge
 DTSTART:20270112T161500Z
 DTEND:20270112T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:a67f67369ee435076b7fd790ff94204e5f19f5bf@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1227,7 +1210,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] TBBA Lunch Grab -- Permitting Professionals
 DTSTART:20270114T163000Z
 DTEND:20270114T183000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c38b144718705ab5fb2c74736ee5f4680709d359@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1241,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Tampa Bay WLI - Women of the Rays
 DTSTART:20270114T213000Z
 DTEND:20270114T233000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:f9e2f1aed16b1bf7cf261b42dac0aeef238009cc@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1257,7 +1240,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Member BBQ - FREE to Attend!
 DTSTART:20270115T163000Z
 DTEND:20270115T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:fc1994de469023367e0d9b99bad0beed3ac6115c@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1272,7 +1255,7 @@ SUMMARY:[ULI] ULI Tampa Bay NEXT - Historic Sanchez Y Haya Restoration Tou
  r
 DTSTART:20270119T213000Z
 DTEND:20270119T233000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:808a36b7b52582d4b1572068b8d352f496f1fdbd@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1287,7 +1270,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Members Only Lunch Around
 DTSTART:20270120T163000Z
 DTEND:20270120T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:45151e3520b0ba838d2df6ae66b6adb165149c67@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1302,7 +1285,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Horizontal Roundtable
 DTSTART:20270120T190000Z
 DTEND:20270120T200000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c6ad39d74c2b40e1a39156d55e91230a8f55ef35@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1316,7 +1299,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
 DTSTART:20270120T200000Z
 DTEND:20270120T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:5093386885b5d1e209abc742201e46db01843386@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1330,7 +1313,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270120T203000Z
 DTEND:20270120T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:dcc92edb414e6e4024e22035392aa4bcafa2ec03@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -1344,7 +1327,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Tampa Bay January StimULI
 DTSTART:20270121T123000Z
 DTEND:20270121T143000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:6d56db5c9da51749c65ee78a7c9af204c640dd1e@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1360,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:[BOMA] BOMA 2027 Winter Business Meeting
 DTSTART:20270121T183000Z
 DTEND:20270125T013000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:4cabdad6e5b8023b430f42b4681bba753fe108a0@tb-networking
 CATEGORIES:BOMA
 DESCRIPTION:Organization: BOMA
@@ -1372,7 +1355,7 @@ BEGIN:VEVENT
 SUMMARY:[BAAA] Maintenance Appreciation Night
 DTSTART:20270121T213000Z
 DTEND:20270122T003000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:b37c69e6fddfbd5809455dd52f8554e47dd28245@tb-networking
 CATEGORIES:BAAA
 DESCRIPTION:Organization: BAAA\nDetails / registration: https://www.baaahq
@@ -1384,7 +1367,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Young Professionals - Invasion Boat Ride
 DTSTART:20270121T223000Z
 DTEND:20270122T003000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:f4cc5953b463f2e7568b379272ad07255a93fb55@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1398,7 +1381,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Florida Design Conference
 DTSTART:20270122T220000Z
 DTEND:20270125T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:f55134fc12f03949e32036a709a2028c29e29f92@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1412,7 +1395,7 @@ SUMMARY:[ULI] ULI Tampa Bay - January Prospective & New Member Coffee Chat
   Meet Up
 DTSTART:20270126T123000Z
 DTEND:20270126T140000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:831ee50e9c99b35015c77e86edaa2c3794576e58@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1428,7 +1411,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] TBBA 2027 Economic Forecast
 DTSTART:20270128T140000Z
 DTEND:20270128T160000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:999f8738a7e56026fe20bd92136b2c9219e840d6@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1442,7 +1425,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Toast To The New Year - Member Dinner
 DTSTART:20270128T223000Z
 DTEND:20270129T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:98c91f686a9d297a9626fab564f50e0037ab5dfc@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1453,11 +1436,26 @@ URL:https://web.abcflgulf.org/events/Toast-To-The-New-Year-Member-Dinner-9
  215/details
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CREW] New Year. New Energy. Let's Jazzercise!
+DTSTART:20270130T190000Z
+DTEND:20270130T210000Z
+DTSTAMP:20261114T105218Z
+UID:1182c6a091c5bfa0b4988f1c4020ed3a2aefc7de@tb-networking
+CATEGORIES:CREW
+DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
+ network.org/special-pages/event-registration?eventId=86c4ffa4-fdd4-487f-81
+ 87-14d95e7b4037
+LOCATION:Westchase Fitness Center\, 12896 Commodity Place\, Tampa
+TRANSP:TRANSPARENT
+URL:https://cart2.crewnetwork.org/special-pages/event-registration?eventId
+ =86c4ffa4-fdd4-487f-8187-14d95e7b4037
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CREW] Monthly Luncheon: Behind-the-Scenes of Award-Winning Projec
  ts: Building Success Together
 DTSTART:20270209T161500Z
 DTEND:20270209T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:d4ba24f7fb4aeb10ee3a1de1abbc576471159010@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1472,7 +1470,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] 5th Annual Go Golf Tournament Fundraiser
 DTSTART:20270215T130000Z
 DTEND:20270215T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:3d8a2dd81255bb126f93fd1a1c36d16d5f0eeb33@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1487,7 +1485,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Young Professionals - Lightning Game
 DTSTART:20270216T230000Z
 DTEND:20270217T020000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:39ca30798d7fc6ab6fd65172ed6b41eccc731056@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1501,7 +1499,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Horizontal Roundtable
 DTSTART:20270217T190000Z
 DTEND:20270217T200000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:fbc9053732c3714101c1ce1cd9ac331ca7e479b0@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1515,7 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
 DTSTART:20270217T200000Z
 DTEND:20270217T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ae0329a67301c6a3d45d9285acc46807a5fcdfc9@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1529,7 +1527,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270217T203000Z
 DTEND:20270217T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:6a87c8fbe1da62b377f95eb546c2a9cd256412aa@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -1543,7 +1541,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] CREW Mates Kickoff & Connections Happy Hour
 DTSTART:20270217T210000Z
 DTEND:20270217T230000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9992acdbced1b24c9b62530c727433b04c8e3d3e@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1558,7 +1556,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Naples Symposium ~ 12 HSW CEU's
 DTSTART:20270218T140000Z
 DTEND:20270220T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c4aa7158f50bd084eab5b1491ea2dce3b7c0d623@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1571,7 +1569,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] UCREW Mitchell Business Park Development Panel & Tour
 DTSTART:20270219T143000Z
 DTEND:20270219T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:746ed8883035ca76f5bdf1aa75d434dfcdb93308@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1586,7 +1584,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Tampa Bay - 2027 Trends Conference
 DTSTART:20270225T173000Z
 DTEND:20270225T233000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:70b995e4b4cc97ee1220b9ac8a327d2d2ce72e7f@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1602,7 +1600,7 @@ BEGIN:VEVENT
 SUMMARY:[BAAA] 'Spikes for Tykes' Volleyball Tournament
 DTSTART:20270226T130000Z
 DTEND:20270226T203000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:d6d1e3eb9c1d7e7dfa644297460f91a4f9db49dd@tb-networking
 CATEGORIES:BAAA
 DESCRIPTION:Organization: BAAA\nDetails / registration: https://www.baaahq
@@ -1614,7 +1612,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] ABC Day at the Races
 DTSTART:20270226T160000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ea339cc9c460726aeb759f6789d4ff5d3a1990a0@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1627,7 +1625,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Monthly Luncheon
 DTSTART:20270302T161500Z
 DTEND:20270302T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:6b61dfb2c71782332dd06f771e2d97af4bb214f3@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1642,7 +1640,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] AIA TB & CAD at Gasparilla Festival of the Arts!
 DTSTART:20270305T140000Z
 DTEND:20270306T220000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:b80f7cb7ec688613e57825fe665b8546230f44f3@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1658,7 +1656,7 @@ SUMMARY:[CREW] Art Meets Development Presents: The Impact Of Art - Where A
  rt & Development Meet
 DTSTART:20270311T210000Z
 DTEND:20270312T010000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:e62069b3be9750732b3b33a8b17f17009d840bc4@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1674,7 +1672,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] Design Week!
 DTSTART:20270314T130000Z
 DTEND:20270321T230000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:da3d36af83bcf658995c50c16759c41e370184a2@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1686,7 +1684,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Horizontal Roundtable
 DTSTART:20270317T180000Z
 DTEND:20270317T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:b5537ceea26f1852906330bfeedf33533159432e@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1700,7 +1698,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
 DTSTART:20270317T190000Z
 DTEND:20270317T200000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:670317d45ac11188ae885322219a577f7e6d04e9@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1714,7 +1712,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270317T193000Z
 DTEND:20270317T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c4a69d115392f22c96fa9732d16882bb80f6304f@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -1728,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] 8th Annual YP All-American Golf Tournament
 DTSTART:20270405T120000Z
 DTEND:20270405T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:2efeeec5ac652c1d4b2ecc0bb360ea50e25e750b@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1742,7 +1740,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Monthly Luncheon
 DTSTART:20270406T151500Z
 DTEND:20270406T170000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:27f0ff33a2ea0cc8df6d18f841f7e4c152e3b1d5@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -1757,7 +1755,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] 6th Annual Tommy Rawls Clay Shoot
 DTSTART:20270409T120000Z
 DTEND:20270409T170000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:29e5aadae1d4af8b588ed0e45df6486a99606703@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA
@@ -1769,7 +1767,7 @@ BEGIN:VEVENT
 SUMMARY:[BAAA] 2027 Trade Show
 DTSTART:20270414T200000Z
 DTEND:20270415T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:730609fa8ea13528c9b932aceeb084347618c49a@tb-networking
 CATEGORIES:BAAA
 DESCRIPTION:Organization: BAAA\nDetails / registration: https://www.baaahq
@@ -1782,7 +1780,7 @@ SUMMARY:[ULI] ULI Tampa Bay WLI - In Her Shoes: The Style & Stories of Wom
  en in the Industry
 DTSTART:20270420T203000Z
 DTEND:20270422T223000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:39a96295928b10573ae2edc5f13bbb2bcbeb1736@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://netforum.ul
@@ -1797,7 +1795,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Horizontal Roundtable
 DTSTART:20270421T180000Z
 DTEND:20270421T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:5629aa37e23c5fa55839bebdfccec43f96f065d5@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1811,7 +1809,7 @@ BEGIN:VEVENT
 SUMMARY:[TBBA] Pasco Vertical Roundtable Meeting
 DTSTART:20270421T190000Z
 DTEND:20270421T200000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9f72b3fdccbb07639d2127f49b74ed79a8d5621c@tb-networking
 CATEGORIES:TBBA
 DESCRIPTION:Organization: TBBA\nDetails / registration: https://members.tb
@@ -1825,7 +1823,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270421T193000Z
 DTEND:20270421T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:b82df30f29185f377faf53b7a68ce3f9b717a6f8@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -1839,7 +1837,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] 9th Annual Crawfish Boil
 DTSTART:20270422T213000Z
 DTEND:20270423T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:ae5c51c52d9c42edef617c4ee501f8fe3fcf2d4a@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1852,7 +1850,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] AIA Tampa Bay Annual Golf Tournament
 DTSTART:20270503T120000Z
 DTEND:20270503T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:171f248e0a07bca24aba19e0d780962ad1a95402@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1867,7 +1865,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Florida: 2027 Florida Summit
 DTSTART:20270505T160000Z
 DTEND:20270507T170000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:bf17775014a3643ed20336cb168c1d663e60be1b@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://florida.uli
@@ -1881,7 +1879,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270519T193000Z
 DTEND:20270519T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:6d6d366d025e7a9d06d17dd4f59aa4478f4cefd0@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -1895,7 +1893,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] President/Chairman Golf Tournament
 DTSTART:20270520T110000Z
 DTEND:20270520T190000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:f3fee42ce73e2ef4893d3fc94535032aea0babbd@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1909,7 +1907,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Fishing Tournament
 DTSTART:20270604T111500Z
 DTEND:20270604T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:03221c7eb66801129b1297662ad2ba83af406fcf@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1922,7 +1920,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270616T193000Z
 DTEND:20270616T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:90433a12c641f180cb8f8c39bce8643a9e8c28fd@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -1936,7 +1934,7 @@ BEGIN:VEVENT
 SUMMARY:[ABC] Tampa GC Tabletop
 DTSTART:20270617T210000Z
 DTEND:20270618T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:0febb784596eb4465bfb62532d2621d7c77bff65@tb-networking
 CATEGORIES:ABC
 DESCRIPTION:Organization: ABC\nDetails / registration: https://web.abcflgu
@@ -1950,7 +1948,7 @@ BEGIN:VEVENT
 SUMMARY:[BOMA] BOMA 2027 International Conference & Expo
 DTSTART:20270626T163000Z
 DTEND:20270629T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:8003575f5d51164ac77306afe7cd0080b6338792@tb-networking
 CATEGORIES:BOMA
 DESCRIPTION:Organization: BOMA
@@ -1961,7 +1959,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Learning Live Online Courses
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:4f3598b90529bb0c2a765b157969af993c65a158@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://learning.ul
@@ -1973,7 +1971,7 @@ BEGIN:VEVENT
 SUMMARY:[ULI] ULI Learning On Demand Courses
 DTSTART:20270630T123000Z
 DTEND:20270630T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9622c41b57dd4e9e403b11b752b9aaac121d4855@tb-networking
 CATEGORIES:ULI
 DESCRIPTION:Organization: ULI\nDetails / registration: https://learning.ul
@@ -1985,7 +1983,7 @@ BEGIN:VEVENT
 SUMMARY:[AIA] The Motor Enclave 2027
 DTSTART:20270715T220000Z
 DTEND:20270716T000000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:6bcbaf39c4b5b5aee606324e8593ba4269049d8c@tb-networking
 CATEGORIES:AIA
 DESCRIPTION:Organization: AIA\nDetails / registration: https://www.aiatamp
@@ -1999,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270721T193000Z
 DTEND:20270721T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:c3d2083f3327b24bd4be44ff6cac2a030d7598a1@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -2013,7 +2011,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270818T193000Z
 DTEND:20270818T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:385d803df542bee08708b3e4e933eda3ca15377a@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -2027,7 +2025,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Monthly Luncheon
 DTSTART:20270914T151500Z
 DTEND:20270914T170000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:0e0e53340f79aedd4a53044a8360d4d7bb52c98e@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -2042,7 +2040,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20270915T193000Z
 DTEND:20270915T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:9082ca1fe758806885ace9898307888254d593c3@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -2056,7 +2054,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Extended Monthly Luncheon
 DTSTART:20271012T151500Z
 DTEND:20271012T173000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:33a574cdda427537b194b001578d2780a8a9f4bc@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
@@ -2071,7 +2069,7 @@ BEGIN:VEVENT
 SUMMARY:[DBIA] Gulf Coast Chapter Members Meeting
 DTSTART:20271020T193000Z
 DTEND:20271020T210000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:bec3cea624e74c25415452c159e0f6a671a2f2ff@tb-networking
 CATEGORIES:DBIA
 DESCRIPTION:Organization: DBIA\nStanding monthly meeting (generated from t
@@ -2085,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:[CREW] Monthly Luncheon
 DTSTART:20271207T161500Z
 DTEND:20271207T180000Z
-DTSTAMP:20261113T111005Z
+DTSTAMP:20261114T105218Z
 UID:0eb273cdd81a0556c93edd00b1170f175d51bc5d@tb-networking
 CATEGORIES:CREW
 DESCRIPTION:Organization: CREW\nDetails / registration: https://cart2.crew
