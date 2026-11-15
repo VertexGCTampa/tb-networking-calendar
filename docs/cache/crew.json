@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-14T10:52:18.861657+00:00",
+ "saved": "2026-11-15T10:53:42.157989+00:00",
  "events": [
   {
    "org": "CREW",
@@ -196,17 +196,6 @@
    "all_day": false,
    "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=9759f71a-4a56-462e-a906-ca38613ae6d4",
    "location": "True Foods Kitchen, 3645 Midtown Drive, Tampa",
-   "source_id": "crew",
-   "recurring": false
-  },
-  {
-   "org": "CREW",
-   "title": "PINK Party",
-   "start": "2026-10-15T17:00:00-04:00",
-   "end": "2026-10-15T20:00:00-04:00",
-   "all_day": false,
-   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=fd0c8d23-5d16-45b0-aee7-49010a63a6f3",
-   "location": "The Sail Pavilion, 333 S Franklin St, Tampa",
    "source_id": "crew",
    "recurring": false
   },

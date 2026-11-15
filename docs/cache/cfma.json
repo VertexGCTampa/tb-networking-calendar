@@ -1,17 +1,6 @@
 {
- "saved": "2026-11-14T10:52:18.861657+00:00",
+ "saved": "2026-11-15T10:53:42.157989+00:00",
  "events": [
-  {
-   "org": "CFMA",
-   "title": "CFMA Cincinnati Clay Shoot - Construction Financial Management Association",
-   "start": "2026-11-13T12:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-cincinnati-clay-shoot-5388",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
   {
    "org": "CFMA",
    "title": "Annual Golf Tournament - Construction Financial Management Association",
@@ -135,17 +124,6 @@
   },
   {
    "org": "CFMA",
-   "title": "November Educational Event - Construction Financial Management Association",
-   "start": "2026-11-18T11:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/november-educational-event-5278",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
    "title": "Digital Twin Technology - Construction Financial Management Association",
    "start": "2026-11-18T11:00:00-05:00",
    "end": null,
@@ -157,11 +135,11 @@
   },
   {
    "org": "CFMA",
-   "title": "Nevada\u2019s Economic Momentum: Diversification, Incentives, and the Road Ahead - Construction Financial Management Association",
-   "start": "2026-11-18T11:30:00-05:00",
+   "title": "November Educational Event - Construction Financial Management Association",
+   "start": "2026-11-18T11:00:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/nevada-s-economic-momentum-diversification-incentives-and-the-road-ahead-5413",
+   "url": "https://tampabay.cfma.org/events/details/november-educational-event-5278",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -184,6 +162,17 @@
    "end": null,
    "all_day": false,
    "url": "https://tampabay.cfma.org/events/details/annual-tax-update-5322",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Nevada\u2019s Economic Momentum: Diversification, Incentives, and the Road Ahead - Construction Financial Management Association",
+   "start": "2026-11-18T11:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/nevada-s-economic-momentum-diversification-incentives-and-the-road-ahead-5413",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -217,6 +206,17 @@
    "end": null,
    "all_day": false,
    "url": "https://tampabay.cfma.org/events/details/volunteer-with-cradles-to-crayons-and-networking-social-5378",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "2026 Annual Tax Update - Construction Financial Management Association",
+   "start": "2026-11-18T15:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/2-26-annual-tax-update-5440",
    "location": "",
    "source_id": "cfma",
    "recurring": false
