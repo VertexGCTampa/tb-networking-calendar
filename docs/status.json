@@ -1,6 +1,6 @@
 {
- "built": "2026-11-15T10:53:42.157989+00:00",
- "total": 145,
+ "built": "2026-11-16T11:32:16.631159+00:00",
+ "total": 144,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
@@ -48,7 +48,7 @@
   {
    "name": "CREW Tampa Bay",
    "type": "crew",
-   "count": 27,
+   "count": 26,
    "state": "ok"
   },
   {
