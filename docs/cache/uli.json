@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-17T11:12:12.989652+00:00",
+ "saved": "2026-11-18T11:14:28.412172+00:00",
  "events": [
   {
    "org": "ULI",
@@ -69,6 +69,17 @@
   },
   {
    "org": "ULI",
+   "title": "Make the Most of Your Membership",
+   "start": "2026-12-14T14:00:00-05:00",
+   "end": "2026-12-14T15:00:00-05:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=DD63EC7F-2A91-4D2F-B481-316092FD64C6",
+   "location": "ZOOM",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
    "title": "ULI Tampa Bay WLI - Women of the Rays",
    "start": "2027-01-14T16:30:00-05:00",
    "end": "2027-01-14T18:30:00-05:00",
@@ -124,6 +135,17 @@
   },
   {
    "org": "ULI",
+   "title": "Make the Most of Your Membership",
+   "start": "2027-03-15T11:00:00-04:00",
+   "end": "2027-03-15T12:00:00-04:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=D560699B-FAB9-4CCD-9E0F-20AE9B4DC244",
+   "location": "ZOOM",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
    "title": "ULI Tampa Bay WLI - In Her Shoes: The Style & Stories of Women in the Industry",
    "start": "2027-04-20T16:30:00-04:00",
    "end": "2027-04-22T18:30:00-04:00",
@@ -141,6 +163,17 @@
    "all_day": false,
    "url": "https://florida.uli.org/",
    "location": "The Hyatt Regency Jacksonville, 225 E Coastline Dr, Jacksonville, FL, 32202-5458",
+   "source_id": "uli",
+   "recurring": false
+  },
+  {
+   "org": "ULI",
+   "title": "Make the Most of Your Membership",
+   "start": "2027-06-21T14:00:00-04:00",
+   "end": "2027-06-21T15:00:00-04:00",
+   "all_day": false,
+   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=861F9377-94AC-4532-A739-F5CAA5364F3C",
+   "location": "ZOOM",
    "source_id": "uli",
    "recurring": false
   },
