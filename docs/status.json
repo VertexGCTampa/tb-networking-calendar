@@ -1,11 +1,11 @@
 {
- "built": "2026-11-18T11:14:28.412172+00:00",
- "total": 152,
+ "built": "2026-11-19T11:10:09.521015+00:00",
+ "total": 151,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
    "type": "chambermaster",
-   "count": 20,
+   "count": 19,
    "state": "ok"
   },
   {
@@ -79,7 +79,8 @@
    "name": "Real Estate Investment Council Tampa Bay",
    "type": "link_crawl",
    "count": 1,
-   "state": "ok"
+   "state": "cached",
+   "note": "no upcoming events found (listing loaded, but no event links matched link_regex) - using events saved Nov 18"
   },
   {
    "name": "Manual entries (manual_events.yaml)",

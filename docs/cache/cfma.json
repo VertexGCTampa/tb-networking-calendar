@@ -1,72 +1,6 @@
 {
- "saved": "2026-11-18T11:14:28.412172+00:00",
+ "saved": "2026-11-19T11:10:09.521015+00:00",
  "events": [
-  {
-   "org": "CFMA",
-   "title": "Beyond the Hard Hat: Mental Resilience & Leadership in Construction - Construction Financial Management Association",
-   "start": "2026-11-17T08:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/beyond-the-hard-hat-mental-resilience-and-leadership-in-construction-5082",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "NYC Chapter: Tax Planning for Contractors - Construction Financial Management Association",
-   "start": "2026-11-17T08:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/nyc-chapter-tax-planning-for-contractors-5384",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "CFMA Idaho Annual Conference 2026 - Construction Financial Management Association",
-   "start": "2026-11-17T08:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-idaho-annual-conference-2-26-5414",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "CFMA Central Ohio Panel Financial Strategies for Growth - Construction Financial Management Association",
-   "start": "2026-11-17T11:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-central-ohio-panel-financial-strategies-for-growth-533-5330",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Audit, Review & Tax Readiness: Best Practices for a Smooth Season - Construction Financial Management Association",
-   "start": "2026-11-17T12:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/audit-review-and-tax-readiness-best-practices-for-a-smooth-season-5422",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
-  {
-   "org": "CFMA",
-   "title": "Webinar: Beyond the Deal: The Leadership and Financial Blueprint for Transitions That Actually Work (CFMC Post Conference) - Construction Financial Management Association",
-   "start": "2026-11-17T15:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/webinar-beyond-the-deal-the-leadership-and-financial-blueprint-for-transitions-that-actual-5346",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
   {
    "org": "CFMA",
    "title": "AI Best Practices, Economic Changes & Year-End Preparation - Construction Financial Management Association",
@@ -80,22 +14,22 @@
   },
   {
    "org": "CFMA",
-   "title": "Triangle CFMA November 2026 Chapter Meeting - Construction Financial Management Association",
+   "title": "November Membership Meeting: Payroll Implementation & Integration Roundtable Breakfast - Construction Financial Management Association",
    "start": "2026-11-18T08:00:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/triangle-cfma-november-2-26-chapter-meeting-4541",
+   "url": "https://tampabay.cfma.org/events/details/november-membership-meeting-payroll-implementation-and-integration-roundtable-breakfast-5407",
    "location": "",
    "source_id": "cfma",
    "recurring": false
   },
   {
    "org": "CFMA",
-   "title": "November Membership Meeting: Payroll Implementation & Integration Roundtable Breakfast - Construction Financial Management Association",
+   "title": "Triangle CFMA November 2026 Chapter Meeting - Construction Financial Management Association",
    "start": "2026-11-18T08:00:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/november-membership-meeting-payroll-implementation-and-integration-roundtable-breakfast-5407",
+   "url": "https://tampabay.cfma.org/events/details/triangle-cfma-november-2-26-chapter-meeting-4541",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -124,22 +58,22 @@
   },
   {
    "org": "CFMA",
-   "title": "Nevada\u2019s Economic Momentum: Diversification, Incentives, and the Road Ahead - Construction Financial Management Association",
+   "title": "Tax Update - Construction Financial Management Association",
    "start": "2026-11-18T11:30:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/nevada-s-economic-momentum-diversification-incentives-and-the-road-ahead-5413",
+   "url": "https://tampabay.cfma.org/events/details/tax-update-4953",
    "location": "",
    "source_id": "cfma",
    "recurring": false
   },
   {
    "org": "CFMA",
-   "title": "Tax Update - Construction Financial Management Association",
+   "title": "Nevada\u2019s Economic Momentum: Diversification, Incentives, and the Road Ahead - Construction Financial Management Association",
    "start": "2026-11-18T11:30:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/tax-update-4953",
+   "url": "https://tampabay.cfma.org/events/details/nevada-s-economic-momentum-diversification-incentives-and-the-road-ahead-5413",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -217,6 +151,72 @@
    "end": null,
    "all_day": false,
    "url": "https://tampabay.cfma.org/events/details/keys-to-preserving-and-preparing-change-orders-and-claims-what-construction-financial-prof-5436",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Tax Updates - Construction Financial Management Association",
+   "start": "2026-11-19T07:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/tax-updates-4692",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Advanced Killer Ca$h Management - Construction Financial Management Association",
+   "start": "2026-11-19T07:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/advanced-killer-ca-h-management-5117",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "State of Transportation in the Carolinas: Insights from NCDOT & SCDOT Leadership - Construction Financial Management Association",
+   "start": "2026-11-19T11:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/state-of-transportation-in-the-carolinas-insights-from-ncdot-and-scdot-leadership-5256",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Payment Dynamics: How Contract Terms Shape Cash Flow - Construction Financial Management Association",
+   "start": "2026-11-19T11:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/payment-dynamics-how-contract-terms-shape-cash-flow-5432",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "General Membership Meeting - WIP 101: The WIP Schedule from the Inside (Panel Discussion) - Construction Financial Management Association",
+   "start": "2026-11-19T11:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/general-membership-meeting-wip-1-1-the-wip-schedule-from-the-inside-panel-discussion-54-8-5408",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "November Membership Meeting - Construction Financial Management Association",
+   "start": "2026-11-19T11:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/november-membership-meeting-5-91-5091",
    "location": "",
    "source_id": "cfma",
    "recurring": false
