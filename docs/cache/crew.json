@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-19T11:10:09.521015+00:00",
+ "saved": "2026-11-20T11:12:42.625526+00:00",
  "events": [
   {
    "org": "CREW",
@@ -207,17 +207,6 @@
    "all_day": false,
    "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=502c9755-a659-4367-b446-adff1ebb816e",
    "location": "Empire & Co., 1000 N. Ashley Dr Suite 130, Tampa",
-   "source_id": "crew",
-   "recurring": false
-  },
-  {
-   "org": "CREW",
-   "title": "3D Printed Sustainable Affordable Housing",
-   "start": "2026-10-20T11:00:00-04:00",
-   "end": "2026-10-20T14:00:00-04:00",
-   "all_day": false,
-   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=6a82356b-cf01-41cc-b0c4-3dfb9f5672ec",
-   "location": "CDC of Tampa, 1907 E Hillsborough Ave #100, Tampa",
    "source_id": "crew",
    "recurring": false
   },

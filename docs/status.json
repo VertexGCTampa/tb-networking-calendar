@@ -1,6 +1,6 @@
 {
- "built": "2026-11-19T11:10:09.521015+00:00",
- "total": 151,
+ "built": "2026-11-20T11:12:42.625526+00:00",
+ "total": 147,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
@@ -17,7 +17,7 @@
   {
    "name": "DBIA Florida - Gulf Coast Chapter",
    "type": "ics",
-   "count": 2,
+   "count": 1,
    "state": "ok"
   },
   {
@@ -48,7 +48,7 @@
   {
    "name": "CREW Tampa Bay",
    "type": "crew",
-   "count": 26,
+   "count": 25,
    "state": "ok"
   },
   {
@@ -60,13 +60,13 @@
   {
    "name": "AIA Tampa Bay",
    "type": "squarespace",
-   "count": 13,
+   "count": 12,
    "state": "ok"
   },
   {
    "name": "AGC of Greater Florida",
    "type": "squarespace",
-   "count": 2,
+   "count": 1,
    "state": "ok"
   },
   {
