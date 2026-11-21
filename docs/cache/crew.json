@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-20T11:12:42.625526+00:00",
+ "saved": "2026-11-21T10:56:33.638872+00:00",
  "events": [
   {
    "org": "CREW",
@@ -119,6 +119,17 @@
    "all_day": false,
    "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=8a6ea80b-06e9-47ee-8651-d45db75655da",
    "location": "Feather Sound Country Club, 2201 Feather Sound DR, Clearwater",
+   "source_id": "crew",
+   "recurring": false
+  },
+  {
+   "org": "CREW",
+   "title": "CREW Discovery",
+   "start": "2027-02-24T11:30:00-05:00",
+   "end": "2027-02-24T13:00:00-05:00",
+   "all_day": false,
+   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=cfbd6c78-f7dc-413c-9c44-64c732dd1f9b",
+   "location": "Corporate Center 3, 4221 W Boy Scout Blvd Ste 140, Tampa",
    "source_id": "crew",
    "recurring": false
   },

@@ -1,6 +1,28 @@
 {
- "saved": "2026-11-20T11:12:42.625526+00:00",
+ "saved": "2026-11-21T10:56:33.638872+00:00",
  "events": [
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Members Meeting",
+   "start": "2027-01-20T20:30:00+00:00",
+   "end": "2027-01-20T21:30:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": "PCL Construction,1 N. Dale Mabry Hwy., Ste. 600 Tampa, Fl ",
+   "source_id": "dbia",
+   "recurring": false
+  },
+  {
+   "org": "DBIA",
+   "title": "Gulf Coast Chapter Happy Hour",
+   "start": "2027-01-20T21:30:00+00:00",
+   "end": "2027-01-20T23:00:00+00:00",
+   "all_day": false,
+   "url": "",
+   "location": "Walk-On's Sports Bistreaux,1140 Gramercy Ln Tampa, FL 33607",
+   "source_id": "dbia",
+   "recurring": false
+  },
   {
    "org": "DBIA",
    "title": "6th Annual Tommy Rawls Clay Shoot",

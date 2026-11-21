@@ -1,6 +1,6 @@
 {
- "built": "2026-11-20T11:12:42.625526+00:00",
- "total": 147,
+ "built": "2026-11-21T10:56:33.638872+00:00",
+ "total": 149,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
@@ -17,7 +17,7 @@
   {
    "name": "DBIA Florida - Gulf Coast Chapter",
    "type": "ics",
-   "count": 1,
+   "count": 3,
    "state": "ok"
   },
   {
@@ -29,7 +29,7 @@
   {
    "name": "ULI Tampa Bay",
    "type": "ics",
-   "count": 18,
+   "count": 17,
    "state": "ok"
   },
   {
@@ -48,7 +48,7 @@
   {
    "name": "CREW Tampa Bay",
    "type": "crew",
-   "count": 25,
+   "count": 26,
    "state": "ok"
   },
   {
@@ -60,7 +60,7 @@
   {
    "name": "AIA Tampa Bay",
    "type": "squarespace",
-   "count": 12,
+   "count": 13,
    "state": "ok"
   },
   {
@@ -79,8 +79,7 @@
    "name": "Real Estate Investment Council Tampa Bay",
    "type": "link_crawl",
    "count": 1,
-   "state": "cached",
-   "note": "no upcoming events found (listing loaded, but no event links matched link_regex) - using events saved Nov 18"
+   "state": "ok"
   },
   {
    "name": "Manual entries (manual_events.yaml)",

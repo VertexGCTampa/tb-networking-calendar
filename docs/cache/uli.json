@@ -1,17 +1,6 @@
 {
- "saved": "2026-11-20T11:12:42.625526+00:00",
+ "saved": "2026-11-21T10:56:33.638872+00:00",
  "events": [
-  {
-   "org": "ULI",
-   "title": "ULI Tampa Bay YLG - Urban Smashdown: Pickleball Showdown",
-   "start": "2026-11-13T10:30:00-05:00",
-   "end": "2026-11-13T15:00:00-05:00",
-   "all_day": false,
-   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=56152C68-B95B-48E0-99A8-5B976C7FAE0B",
-   "location": "Tampa Pickleball Crew, 1701 E 2nd Ave, Tampa, FL, 33605",
-   "source_id": "uli",
-   "recurring": false
-  },
   {
    "org": "ULI",
    "title": "ULI Tampa Bay NEXT - Airport Tour",
