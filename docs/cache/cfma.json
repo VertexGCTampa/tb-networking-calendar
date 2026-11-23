@@ -1,17 +1,6 @@
 {
- "saved": "2026-11-22T10:55:36.034364+00:00",
+ "saved": "2026-11-23T11:16:11.306053+00:00",
  "events": [
-  {
-   "org": "CFMA",
-   "title": "CFMA Cincinnati People Working Cooperatively Prepare Affair - Construction Financial Management Association",
-   "start": "2026-11-21T07:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-cincinnati-people-working-cooperatively-prepare-affair-5336",
-   "location": "",
-   "source_id": "cfma",
-   "recurring": false
-  },
   {
    "org": "CFMA",
    "title": "Utah CFMA Chapter Members-Only Hockey Game & Holiday Social - Construction Financial Management Association",
@@ -58,11 +47,11 @@
   },
   {
    "org": "CFMA",
-   "title": "CFMA Cincinnati Private Equity in Construction - Construction Financial Management Association",
+   "title": "Triangle CFMA Half-Day CPE Event - Construction Financial Management Association",
    "start": "2026-12-02T08:00:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/cfma-cincinnati-private-equity-in-construction-5389",
+   "url": "https://tampabay.cfma.org/events/details/triangle-cfma-half-day-cpe-event-5291",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -91,11 +80,11 @@
   },
   {
    "org": "CFMA",
-   "title": "Triangle CFMA Half-Day CPE Event - Construction Financial Management Association",
+   "title": "CFMA Cincinnati Private Equity in Construction - Construction Financial Management Association",
    "start": "2026-12-02T08:00:00-05:00",
    "end": null,
    "all_day": false,
-   "url": "https://tampabay.cfma.org/events/details/triangle-cfma-half-day-cpe-event-5291",
+   "url": "https://tampabay.cfma.org/events/details/cfma-cincinnati-private-equity-in-construction-5389",
    "location": "",
    "source_id": "cfma",
    "recurring": false
@@ -206,6 +195,17 @@
    "end": null,
    "all_day": false,
    "url": "https://tampabay.cfma.org/events/details/holiday-social-2-26-5452",
+   "location": "",
+   "source_id": "cfma",
+   "recurring": false
+  },
+  {
+   "org": "CFMA",
+   "title": "Christmas Happy Hour - Construction Financial Management Association",
+   "start": "2026-12-03T16:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "url": "https://tampabay.cfma.org/events/details/christmas-happy-hour-5-83-5083",
    "location": "",
    "source_id": "cfma",
    "recurring": false
