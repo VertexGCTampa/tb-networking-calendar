@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-24T11:02:42.186190+00:00",
+ "saved": "2026-11-25T11:08:32.060612+00:00",
  "events": [
   {
    "org": "ABC",
@@ -196,6 +196,17 @@
    "all_day": false,
    "url": "https://web.abcflgulf.org/events/8th-Annual-YP-All-American-Golf-Tournament-9229/details",
    "location": "Westchase Golf Club, 11602 Westchase Golf Dr, Tampa",
+   "source_id": "abc",
+   "recurring": false
+  },
+  {
+   "org": "ABC",
+   "title": "ABC Superintendent Academy (in partnership with UF)",
+   "start": "2027-04-05T12:00:00+00:00",
+   "end": "2027-04-05T21:00:00+00:00",
+   "all_day": false,
+   "url": "https://web.abcflgulf.org/events/ABC-Superintendent-Academy-in-partnership-with-UF-9230/details",
+   "location": "ABC Office, 2008 N Himes Ave, Tampa",
    "source_id": "abc",
    "recurring": false
   }

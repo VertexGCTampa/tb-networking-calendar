@@ -1,11 +1,11 @@
 {
- "built": "2026-11-24T11:02:42.186190+00:00",
- "total": 148,
+ "built": "2026-11-25T11:08:32.060612+00:00",
+ "total": 146,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
    "type": "chambermaster",
-   "count": 18,
+   "count": 19,
    "state": "ok"
   },
   {
@@ -29,7 +29,7 @@
   {
    "name": "ULI Tampa Bay",
    "type": "ics",
-   "count": 17,
+   "count": 16,
    "state": "ok"
   },
   {
@@ -42,7 +42,7 @@
   {
    "name": "CFMA Tampa Bay",
    "type": "link_crawl",
-   "count": 20,
+   "count": 18,
    "state": "ok"
   },
   {

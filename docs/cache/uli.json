@@ -1,17 +1,6 @@
 {
- "saved": "2026-11-24T11:02:42.186190+00:00",
+ "saved": "2026-11-25T11:08:32.060612+00:00",
  "events": [
-  {
-   "org": "ULI",
-   "title": "ULI Tampa Bay NEXT - Airport Tour",
-   "start": "2026-11-17T16:00:00-05:00",
-   "end": "2026-11-17T18:30:00-05:00",
-   "all_day": false,
-   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=32E5B9C6-FF8B-473D-BEB9-3FAD221051A8",
-   "location": "Tampa International Airport, 4100 George J Bean Pkwy, Tampa, FL, 33607-1402",
-   "source_id": "uli",
-   "recurring": false
-  },
   {
    "org": "ULI",
    "title": "ULI Tampa Bay - November StimULI - 2027 Emerging Trends in Real Estate: How Does Tampa Bay Stack Up?",
