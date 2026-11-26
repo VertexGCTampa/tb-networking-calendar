@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25T11:08:32.060612+00:00",
+ "built": "2026-11-26T11:07:29.300544+00:00",
  "total": 146,
  "sources": [
   {
@@ -42,7 +42,7 @@
   {
    "name": "CFMA Tampa Bay",
    "type": "link_crawl",
-   "count": 18,
+   "count": 20,
    "state": "ok"
   },
   {
@@ -54,7 +54,7 @@
   {
    "name": "Bay Area Apartment Association",
    "type": "link_crawl",
-   "count": 6,
+   "count": 4,
    "state": "ok"
   },
   {
