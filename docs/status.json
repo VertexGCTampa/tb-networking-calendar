@@ -1,11 +1,11 @@
 {
- "built": "2026-11-26T11:07:29.300544+00:00",
- "total": 146,
+ "built": "2026-11-27T11:03:39.718853+00:00",
+ "total": 143,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
    "type": "chambermaster",
-   "count": 19,
+   "count": 18,
    "state": "ok"
   },
   {
@@ -29,7 +29,7 @@
   {
    "name": "ULI Tampa Bay",
    "type": "ics",
-   "count": 16,
+   "count": 15,
    "state": "ok"
   },
   {
@@ -60,7 +60,7 @@
   {
    "name": "AIA Tampa Bay",
    "type": "squarespace",
-   "count": 13,
+   "count": 12,
    "state": "ok"
   },
   {

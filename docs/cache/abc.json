@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-26T11:07:29.300544+00:00",
+ "saved": "2026-11-27T11:03:39.718853+00:00",
  "events": [
   {
    "org": "ABC",
@@ -64,17 +64,6 @@
    "all_day": false,
    "url": "https://web.abcflgulf.org/events/YP-Volunteer-Opportunity-Feeding-Tampa-Bay-9209/details",
    "location": "Feeding Tampa Bay - Causeway Center, 3624 Causeway Blvd, Tampa",
-   "source_id": "abc",
-   "recurring": false
-  },
-  {
-   "org": "ABC",
-   "title": "Lunch & Learn - Roadblocks. Risk. Recovery. - Keeping Your Business Running No Matter What",
-   "start": "2026-10-27T15:00:00+00:00",
-   "end": "2026-10-27T16:30:00+00:00",
-   "all_day": false,
-   "url": "https://web.abcflgulf.org/events/Lunch-Learn-Roadblocks-Risk-Recovery-Keeping-Your-Business-Running-No-Matter-What-9210/details",
-   "location": "ABC Office, 2008 N Himes Ave, Tampa",
    "source_id": "abc",
    "recurring": false
   },
