@@ -1,6 +1,6 @@
 {
- "built": "2026-11-27T11:03:39.718853+00:00",
- "total": 143,
+ "built": "2026-11-28T10:58:54.119816+00:00",
+ "total": 140,
  "sources": [
   {
    "name": "ABC Florida Gulf Coast",
@@ -29,7 +29,7 @@
   {
    "name": "ULI Tampa Bay",
    "type": "ics",
-   "count": 15,
+   "count": 14,
    "state": "ok"
   },
   {
@@ -48,7 +48,7 @@
   {
    "name": "CREW Tampa Bay",
    "type": "crew",
-   "count": 26,
+   "count": 24,
    "state": "ok"
   },
   {

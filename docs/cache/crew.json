@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-27T11:03:39.718853+00:00",
+ "saved": "2026-11-28T10:58:54.119816+00:00",
  "events": [
   {
    "org": "CREW",
@@ -47,17 +47,6 @@
   },
   {
    "org": "CREW",
-   "title": "Florida's Proposed Tax Amendment 3: From Ballot Language to Commercial Real Estate Implications",
-   "start": "2026-10-28T16:00:00-04:00",
-   "end": "2026-10-28T18:00:00-04:00",
-   "all_day": false,
-   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=5908730c-ea76-4fe8-8918-d92ddd9216e5",
-   "location": "Baker Tilly, 100 South Ashley Drive, Tampa",
-   "source_id": "crew",
-   "recurring": false
-  },
-  {
-   "org": "CREW",
    "title": "Extended Monthly Luncheon",
    "start": "2027-10-12T11:15:00-04:00",
    "end": "2027-10-12T13:30:00-04:00",
@@ -86,17 +75,6 @@
    "all_day": false,
    "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=4fb7be5d-d140-4627-9567-4fa51daeb80d",
    "location": "Birdie Club, 3409 S. Dale Mabry Highway, Tampa",
-   "source_id": "crew",
-   "recurring": false
-  },
-  {
-   "org": "CREW",
-   "title": "City in PINK 3D Mammogram Bus Screenings",
-   "start": "2026-10-28T13:00:00-04:00",
-   "end": "2026-10-28T17:00:00-04:00",
-   "all_day": false,
-   "url": "https://cart2.crewnetwork.org/special-pages/event-registration?eventId=3e4e9f5d-bced-4f21-80d6-b1f980d79068",
-   "location": "Corporate Center I, 2202 N West Shore Blvd Ste 122, Tampa",
    "source_id": "crew",
    "recurring": false
   },

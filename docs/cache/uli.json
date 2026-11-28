@@ -1,5 +1,5 @@
 {
- "saved": "2026-11-27T11:03:39.718853+00:00",
+ "saved": "2026-11-28T10:58:54.119816+00:00",
  "events": [
   {
    "org": "ULI",
@@ -42,17 +42,6 @@
    "all_day": false,
    "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=DD63EC7F-2A91-4D2F-B481-316092FD64C6",
    "location": "ZOOM",
-   "source_id": "uli",
-   "recurring": false
-  },
-  {
-   "org": "ULI",
-   "title": "ULI Tampa Bay WLI - Women of the Rays",
-   "start": "2027-01-14T16:30:00-05:00",
-   "end": "2027-01-14T18:30:00-05:00",
-   "all_day": false,
-   "url": "https://netforum.uli.org/eweb/DynamicPage.aspx?webcode=EventInfo&Reg_evt_key=ADB8EB20-BE89-4E19-89B2-882382E1F8D7",
-   "location": "Tropicana Field, 1 Tropicana Dr, Saint Petersburg, FL, 33705-1703",
    "source_id": "uli",
    "recurring": false
   },
